@@ -1,0 +1,130 @@
+
+2022-03-08 00:14:54.551: Generation-1
+2022-03-08 00:14:54.551: 	Rendered requests: 21 / 21
+2022-03-08 00:14:54.551: 	Rendered requests with "valid" status codes: 19 / 21
+2022-03-08 00:14:54.551: 	Rendered requests determined to be fully valid (no resource creation failures): 19 / 21
+2022-03-08 00:14:54.551: List of failing requests:
+	Request: 7
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'continent'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+	Request: 18
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'lang'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+-------------------------
+
+
+2022-03-08 00:23:46.699: Generation-2
+2022-03-08 00:23:46.699: 	Rendered requests: 21 / 21
+2022-03-08 00:23:46.699: 	Rendered requests with "valid" status codes: 19 / 21
+2022-03-08 00:23:46.699: 	Rendered requests determined to be fully valid (no resource creation failures): 19 / 21
+2022-03-08 00:23:46.699: List of failing requests:
+	Request: 7
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'continent'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+	Request: 18
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'lang'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+-------------------------
+
+
+2022-03-08 00:43:18.733: Generation-3
+2022-03-08 00:43:18.733: 	Rendered requests: 21 / 21
+2022-03-08 00:43:18.733: 	Rendered requests with "valid" status codes: 19 / 21
+2022-03-08 00:43:18.733: 	Rendered requests determined to be fully valid (no resource creation failures): 19 / 21
+2022-03-08 00:43:18.733: List of failing requests:
+	Request: 7
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'continent'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+	Request: 18
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'lang'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: [pe, pen, ...]
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+-------------------------
+
+
+2022-03-08 00:43:18.749: 	Never Rendered requests:
+-------------------------
+

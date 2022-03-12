@@ -1,0 +1,7 @@
+Initializing: Garbage collection every 30 seconds.
+2022-03-07 23:43:18.277: Generation: 1 
+2022-03-08 00:14:54.566: Generation: 2 
+2022-03-08 00:23:46.699: Generation: 3 
+seq collection exhausted
+Terminating garbage collection. Waiting for max 300 seconds.
+Done.

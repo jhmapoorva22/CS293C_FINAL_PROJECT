@@ -1,0 +1,2470 @@
+{
+  "0": {},
+  "400": {
+    "ab46537b-6a04-421a-b2f5-62f0bab2196a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/currency/pe",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"status\":400,\"message\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  },
+  "404": {
+    "0004cc70-3d59-43a5-9e03-967498bddec9": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/lang/pen",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"status\":404,\"message\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "0124b135-90c7-4e2f-9702-ecb08c94d95b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "012c84f8-39f7-413f-b07c-973b39c16614": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "016c363b-6d60-4480-a566-692d55d403c3": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "039f0e75-e531-4328-b839-38e1359798d1": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "04a92cdb-73c8-41b4-b1f7-d72306f85aa1": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "06cfd289-23b8-4b47-9086-506221eb3a60": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "09b4efd9-79e9-4c58-b671-6762a5293f84": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "113c3d9e-2da7-4630-8313-0f43a7201df6": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "113ecfdb-3907-4a14-bdd0-a7362f94191a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1542f134-621d-481b-8457-a7194eafeffe": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "164c7fb1-41b6-4b04-8e65-53d1fd95c51f": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "19aa4bb1-8557-4ac7-b816-2e67ca94b362": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "19bdd66f-6bc9-43d2-bad4-c062de69d2c0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1b97e175-3312-4dcb-bef0-78514aec07ac": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1e777c03-b57c-4d92-8293-db08c6b3a923": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "240224c9-d44a-43c5-823b-86f9388c068b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "2ee22909-051d-4e09-b8ab-43bd1344da4b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "2f09b4e4-e38e-4a67-a142-c665b8325bf5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "30fe948b-7eba-455e-902b-b55dbf9aea64": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "369ef466-a41c-44b7-a2fc-0ae52fe02eda": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3f39fa37-1072-4e5d-ad7a-6a0c6198841c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "4361835b-c404-4e65-a146-ecd8c4699893": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "43ed2892-2914-4591-8beb-0e9dbd4c83ed": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "43f0c2e6-4a07-4ed3-9b18-9af371c3ba91": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "493a960b-23de-4613-9d70-197409f636ed": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "49c85d33-4b8c-4909-a4ea-330ef8f35c4d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "4d2bf3a3-550c-4730-a719-0888d9751d32": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "50841f64-b938-4015-80b2-45e25f47a99c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "594797ec-ad71-4650-a4fb-820e73786189": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "59e43103-6246-4244-9426-228f3fb10d54": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5ad46ecc-eedb-40ab-848e-7886ea581384": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5ae5536f-7679-407e-941b-a29c13a3f8b9": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5bf12483-817c-479c-9c59-b0a7a57b85d6": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6568de3f-4c00-490a-89ba-39a66aee3dd5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "66b7b773-3de3-4bbf-b586-8a2284348ad4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6c879ebb-320e-4648-8dd5-851f80102715": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6cd95c79-58b3-4859-81f1-d10f378af286": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6fb117b1-ee49-4586-9c97-5d92fc8d6a85": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "70afd0ce-183f-4a0f-b612-2b70a5ca62d6": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "71d8137f-3470-4a97-b373-9f9ff2cf3f54": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "727246aa-6c1a-45fc-b487-89b97b12e2f7": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "79d815f9-f282-4410-b838-4be73ad2b7db": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "7a58a0f4-0c96-44f1-83c5-9a62c6a2bcd5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "7e19df35-3ce1-4e16-aed5-090f37608320": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8233fb6f-9a02-446f-96b2-6cd4d0af7520": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "83402ff4-f619-43b1-8a03-1430f3e2ba78": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "83db62af-ce4b-44ab-b0db-6199d8329fa5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8549d532-636e-498b-9ab8-90a3a6ec4405": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "85e37da3-b40c-4e34-821b-a8a5ce0e97f5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "86638c57-38ec-43e8-8015-e16c72aa3605": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "86fd2d32-a700-4a14-993f-84d303746ccc": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8c1ce49c-356c-4cf1-b438-65433e2a3226": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8c5843ce-b1a9-454d-be3b-24831a0ca6bf": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8d6eadf4-9077-4b33-9d23-a8e7228fd4bd": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8db6fa56-723e-461f-aa0c-9f9fac90a985": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8e13278d-eeec-4b54-9167-a21718ab9336": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "91b4dfcf-28f2-4468-b32b-9bed66134ad4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "955f861d-78b4-443c-8a60-9ff04e4789b2": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "964a5857-0a38-4068-a3b5-b0a36adb55fc": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "986a1fe8-acc5-46d5-baa1-60c1bacbb0c0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "98dd4a66-955f-4b50-b2ad-1269841e4bd3": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a0f28815-ea48-46b6-9eba-5cc6728d66a4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a14244a4-c883-4084-9c82-fdb9abbd28cb": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a300ecb5-6ca3-49fb-92eb-0aba56135895": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/europe",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/europe?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a49cf353-1c2f-4631-8b21-d4d44f6776e0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a4f9034f-17fa-4e78-ab0e-c1931501cffa": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ac0188ca-3d68-4039-981a-5cd05d2f2a06": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b0eee1cf-ff02-4183-845b-d90a721cda81": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b26fd708-1e26-429d-9548-b0a03588818b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b34c5ffd-ea61-4a7c-b3cd-7356796e2f27": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b646c3c1-9a38-41af-b958-8ea53a39f0ea": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b66283ee-15f2-44a5-929f-27b9453c9726": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b8dbf92e-6a89-4233-b8dd-4001add742c7": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/51",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/51?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "bbc5d891-d78b-45cd-81e4-0c876cced1af": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "bc814187-a417-4da6-8882-f1772fe58241": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "bf940435-bdc5-488e-ab2b-95c27fb3c687": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "bfe6de24-1f6e-4bd6-ba9f-90271b15553d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c3d8ec84-9f6e-431f-98dc-d6d168353294": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c3ee69a5-c546-4bb5-814a-3e69091c872e": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c92c3294-514e-4ccc-88b3-c84bad7d7272": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pe",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pe?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c9aa6139-3d90-4b2d-927b-650a3979e8d6": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ca20ffd2-baeb-44d9-9677-4185e903b929": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "cc684eab-7462-468b-b41b-905e927ed2cc": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=lima",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=lima\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d1e0049f-c2b5-448b-a370-54fe7815311c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d6847499-20d1-4018-bb2d-9aa74baf02a5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d707ceaa-74c6-4220-83f0-2fdddc61866d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=united",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=united\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d744522d-22cb-4098-b385-c4868ac8215f": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d7e2dfcf-59a1-49fe-ae46-5a3f530ffa58": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d8856bac-07e3-4925-b57c-bcffddfbfc43": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=es",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=es\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d8f1a986-c4cb-473f-b682-95469bebbc47": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/lima",
+            "query": "fields=51",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/lima?fields=51\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "db7bd8a5-1396-4aff-8179-30a3a9181fda": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "dc7b7a7b-7a2a-4249-a813-b6532512b8d8": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/pen",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/pen?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "dffb3914-3747-4ea1-8cc9-9dc02d708564": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/dollar",
+            "query": "fields=pe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/dollar?fields=pe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e10b6d75-3d05-49df-9a5f-bdd1ef32bbef": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=eu",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=eu\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e21096f3-4968-4540-8e8c-1e68c353f676": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/aruba",
+            "query": "fields=pen",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/aruba?fields=pen\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e2272d8d-286b-4128-91e7-e62b2263d648": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/es",
+            "query": "fields=dollar",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/es?fields=dollar\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e44d961a-20f6-4eef-b2a0-5a857766eeed": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/united",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/united?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e45a2f8e-807e-41ea-ad5d-c3c1e1c0e479": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=europe",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=europe\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ee5c0d35-0284-40c8-a005-5170ec4ea0d4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v2/continent/eu",
+            "query": "fields=aruba",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Page Not Found\",\"_links\":{\"self\":{\"href\":\"/v2/continent/eu?fields=aruba\",\"templated\":false}}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  }
+}
