@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "6101c3f5de2151cf7ac56c77783066cc",
+    "name" : "spotify_getAlbums.Spotify_getAlbums_1646636729798",
+    "statistic" : {
+      "failed" : 100,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 100
+    }
+  } ]
+}

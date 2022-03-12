@@ -1,0 +1,2002 @@
+{
+  "8ac7e35f8bbbcada14396f708dfcf5ac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b0480830b11a066",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636732143,
+        "stop" : 1646636733679,
+        "duration" : 1536
+      }
+    } ]
+  },
+  "10f465d5c8a4e17c692fa11de5e1d570" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bdb36400639505c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636735796,
+        "stop" : 1646636735967,
+        "duration" : 171
+      }
+    } ]
+  },
+  "eaa4f85bb4dba64603917de063b25b85" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c61d5c2d67a4220",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636744962,
+        "stop" : 1646636745153,
+        "duration" : 191
+      }
+    } ]
+  },
+  "6dfadd2531da57617873c253f233a07f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8262c89f4c22163d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636748314,
+        "stop" : 1646636748414,
+        "duration" : 100
+      }
+    } ]
+  },
+  "9db5ab586496c519d711628ed40ec048" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc3fe6670b0ff0a4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636741341,
+        "stop" : 1646636741452,
+        "duration" : 111
+      }
+    } ]
+  },
+  "4e76aeec08ce574774d5fd0fb75c7a79" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5af81f9b9dd7e743",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636736549,
+        "stop" : 1646636736678,
+        "duration" : 129
+      }
+    } ]
+  },
+  "10a7cf3133e539b86ce2c7e3f31bd6ad" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9a4d0da979ee21e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636741811,
+        "stop" : 1646636741943,
+        "duration" : 132
+      }
+    } ]
+  },
+  "820c913eb234b9703dfef0bcea61fe64" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7e651eca872d4ca",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636734926,
+        "stop" : 1646636735340,
+        "duration" : 414
+      }
+    } ]
+  },
+  "f8e398b89d3bb1648b34667e6cf60a59" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f7ad61adac6a3f7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636738555,
+        "stop" : 1646636738708,
+        "duration" : 153
+      }
+    } ]
+  },
+  "95b2f9db02f65dcdb7012edb15694d18" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e227f091c272d869",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636748209,
+        "stop" : 1646636748312,
+        "duration" : 103
+      }
+    } ]
+  },
+  "27bf79c696664ffc26500351db8c5911" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70ef524b7b131747",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636746031,
+        "stop" : 1646636746344,
+        "duration" : 313
+      }
+    } ]
+  },
+  "fffcf1a4e68ce3bdaea372708438e18f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6580aa0860928625",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636744315,
+        "stop" : 1646636744757,
+        "duration" : 442
+      }
+    } ]
+  },
+  "c82ec8dcb78274df6c83a34f2f72db29" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39aee9f2c81fb7a1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636750100,
+        "stop" : 1646636750245,
+        "duration" : 145
+      }
+    } ]
+  },
+  "d4bad11c8be4194ea9bc612c8ef1e821" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70f3d76cd7bf4a9a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636744759,
+        "stop" : 1646636744861,
+        "duration" : 102
+      }
+    } ]
+  },
+  "f55700882ea3c72fa35d0638d7ae4a07" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c084c5d23cb2e9d8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636744062,
+        "stop" : 1646636744211,
+        "duration" : 149
+      }
+    } ]
+  },
+  "ef3939431953042e6de834cf07988550" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "618f229bc96b32b5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636737469,
+        "stop" : 1646636737570,
+        "duration" : 101
+      }
+    } ]
+  },
+  "d151841bd8a690a4ee5108092e3f1d91" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "440d0708518529af",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636740812,
+        "stop" : 1646636740928,
+        "duration" : 116
+      }
+    } ]
+  },
+  "7fad45236a1a508d3a295abb490f39a4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ba5070dcfc33a74",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636740349,
+        "stop" : 1646636740444,
+        "duration" : 95
+      }
+    } ]
+  },
+  "3eb76d1278f4a47c6f9c868b50c89ff0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2fa22cd2c4fe580",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636749962,
+        "stop" : 1646636750099,
+        "duration" : 137
+      }
+    } ]
+  },
+  "35447a3708d8317ecd2f1e67a034a0fd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f87eefa1c223ccb7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636739939,
+        "stop" : 1646636740347,
+        "duration" : 408
+      }
+    } ]
+  },
+  "60c0967e22e39022831c27b467169e81" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31a2269e6baca80b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636741569,
+        "stop" : 1646636741709,
+        "duration" : 140
+      }
+    } ]
+  },
+  "449a23da6542ba70ff557fd150bb063d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d5d945a43a3997d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636747588,
+        "stop" : 1646636747698,
+        "duration" : 110
+      }
+    } ]
+  },
+  "1973189ae24d65b474b944c11edda837" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e790e599c5057004",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636736074,
+        "stop" : 1646636736185,
+        "duration" : 111
+      }
+    } ]
+  },
+  "bf0a8fc572535325a601969f34632cd6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fb19f114bd7c6ce",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636740705,
+        "stop" : 1646636740811,
+        "duration" : 106
+      }
+    } ]
+  },
+  "b6ce965baa4c6dc703f4edb28d836cc7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74b708055a0549e7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636734073,
+        "stop" : 1646636734244,
+        "duration" : 171
+      }
+    } ]
+  },
+  "3b0ab47c16ec14350a8419271cca0d9e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c365e4b86209c4bc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636746446,
+        "stop" : 1646636746593,
+        "duration" : 147
+      }
+    } ]
+  },
+  "206f90c3a7ad0fbf1da4c363a678b9bf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31862d061877641f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636737017,
+        "stop" : 1646636737468,
+        "duration" : 451
+      }
+    } ]
+  },
+  "9970e15d681e7a0ba2fc7cc7a1b0f537" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "259ac4788e3057a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636749419,
+        "stop" : 1646636749520,
+        "duration" : 101
+      }
+    } ]
+  },
+  "fca6ff5cbc05d15f0f48c61732d63b07" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29a854a2b9c435ee",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636740446,
+        "stop" : 1646636740571,
+        "duration" : 125
+      }
+    } ]
+  },
+  "fdcddc5e43d2a5400596709c27eb436f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b92c65824ae9823",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636739323,
+        "stop" : 1646636739444,
+        "duration" : 121
+      }
+    } ]
+  },
+  "43b28f797eb086a4ba0b6bc668e558e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "449c4d9853188f45",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636745500,
+        "stop" : 1646636745596,
+        "duration" : 96
+      }
+    } ]
+  },
+  "3b92b3ba8e7e12a9769ed342653b162f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66d8461a589fc782",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636745597,
+        "stop" : 1646636745691,
+        "duration" : 94
+      }
+    } ]
+  },
+  "8d0ac69a8b2ca8700226b18c40d79bbe" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11b3c0a9cca04d8f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636744862,
+        "stop" : 1646636744959,
+        "duration" : 97
+      }
+    } ]
+  },
+  "515be05a0b6cb2dea8931c8b11abe474" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8acf114bb3aa517e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636746892,
+        "stop" : 1646636747016,
+        "duration" : 124
+      }
+    } ]
+  },
+  "db0387e7ed83801c59b7adfb5a89aeca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1253c7a568e16f4c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636736188,
+        "stop" : 1646636736543,
+        "duration" : 355
+      }
+    } ]
+  },
+  "dffd34fd790a75bb841b0af023766200" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12c1aa4113020ace",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636739226,
+        "stop" : 1646636739321,
+        "duration" : 95
+      }
+    } ]
+  },
+  "f09f89eb2ba6ec838eb27549bc2da815" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b4cd3e0d81fb1e8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636735453,
+        "stop" : 1646636735611,
+        "duration" : 158
+      }
+    } ]
+  },
+  "448888f76fa4530de4b9170c6ec42feb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17ecb7e959906e34",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636749067,
+        "stop" : 1646636749203,
+        "duration" : 136
+      }
+    } ]
+  },
+  "4f7b37106caa3b882ce308bbed5c37d8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b87798211d8123c1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636743531,
+        "stop" : 1646636743845,
+        "duration" : 314
+      }
+    } ]
+  },
+  "3ea497d5f77f49a174c4f8cdaafbde17" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5e3a5e08f5126af",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636738710,
+        "stop" : 1646636739121,
+        "duration" : 411
+      }
+    } ]
+  },
+  "d7e8929460b8044190d36e57810d4934" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a88530ca11b7b43f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636736680,
+        "stop" : 1646636736831,
+        "duration" : 151
+      }
+    } ]
+  },
+  "a392f161e2e1e247611ffd76c1095567" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa4a659039d2eb8f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636734758,
+        "stop" : 1646636734923,
+        "duration" : 165
+      }
+    } ]
+  },
+  "a0e9a90a2fe139b97f64070b22ed5166" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4649952bc76ec52b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636741185,
+        "stop" : 1646636741334,
+        "duration" : 149
+      }
+    } ]
+  },
+  "ac15efda3e49a169cdcf9c7d980b19eb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9e9c5133baf6d7c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636734246,
+        "stop" : 1646636734419,
+        "duration" : 173
+      }
+    } ]
+  },
+  "115a832fb2aeeb559213fb4b98f4cc6c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "693727150747f2d9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636742433,
+        "stop" : 1646636742624,
+        "duration" : 191
+      }
+    } ]
+  },
+  "9848893260851c25a0e8836300ca8603" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78cbcafda072dc84",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636735614,
+        "stop" : 1646636735794,
+        "duration" : 180
+      }
+    } ]
+  },
+  "2a55c9c9db033b7e807d38ffbf0ee6a3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "847578701b5f5feb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636736837,
+        "stop" : 1646636737015,
+        "duration" : 178
+      }
+    } ]
+  },
+  "a627f059600dab228931a22964ec2653" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f248f6d9f74d7a66",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636748964,
+        "stop" : 1646636749065,
+        "duration" : 101
+      }
+    } ]
+  },
+  "b4260fe59c19343a94f7c6b7cae6a2fc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84a085dbf9d290cb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636747036,
+        "stop" : 1646636747188,
+        "duration" : 152
+      }
+    } ]
+  },
+  "fd6dc6d7454164359f9a15c772179604" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c4cf7280ea81da8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636742625,
+        "stop" : 1646636743108,
+        "duration" : 483
+      }
+    } ]
+  },
+  "e96e16d7b623e40740f3c06f28ef8ae7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d09b546654022da",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636741454,
+        "stop" : 1646636741567,
+        "duration" : 113
+      }
+    } ]
+  },
+  "b1d1a2fd56114a573d97ad1da6c712fd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65f1d36ab2c06f8d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636749794,
+        "stop" : 1646636749958,
+        "duration" : 164
+      }
+    } ]
+  },
+  "1f1dcc32fe610417cafc61b10f41de41" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd553590dc0489fb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636741043,
+        "stop" : 1646636741183,
+        "duration" : 140
+      }
+    } ]
+  },
+  "e1bd4d0f3c732060e275430bca77c350" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee4b987ab9650149",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636739810,
+        "stop" : 1646636739937,
+        "duration" : 127
+      }
+    } ]
+  },
+  "f5d180354a490e0699cad12700307fde" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fcc9a827a4c8ef0e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636735342,
+        "stop" : 1646636735451,
+        "duration" : 109
+      }
+    } ]
+  },
+  "ea2f2249f096ad1fea6e7c4496dc0eab" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6ff2da97f842e84",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636733713,
+        "stop" : 1646636733841,
+        "duration" : 128
+      }
+    } ]
+  },
+  "80957cc4860f1d3b49dd17301942aa57" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68b5950fceef0202",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636747340,
+        "stop" : 1646636747491,
+        "duration" : 151
+      }
+    } ]
+  },
+  "525e6bca24194256291e6450c9c59d48" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "756aa51d46ae673b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636733844,
+        "stop" : 1646636734071,
+        "duration" : 227
+      }
+    } ]
+  },
+  "acc17e6cfcb5bd4e2be1a789cae18af9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbdeb08fd416a5c0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636745825,
+        "stop" : 1646636746029,
+        "duration" : 204
+      }
+    } ]
+  },
+  "5bb32fd8a98be3643bd22bcd2e1d1952" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "606e32c569d6fbc0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636737767,
+        "stop" : 1646636737923,
+        "duration" : 156
+      }
+    } ]
+  },
+  "860fe6bd110ef435f6531003673374c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "994c1f1531f1d3c6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636746785,
+        "stop" : 1646636746890,
+        "duration" : 105
+      }
+    } ]
+  },
+  "fb32037aa282d0a49489e8e8b08e51bd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db8d4a659a0b93db",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636749522,
+        "stop" : 1646636749658,
+        "duration" : 136
+      }
+    } ]
+  },
+  "250ebcd28fa88677331b1751d682a879" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "520cde651ac933df",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636738113,
+        "stop" : 1646636738553,
+        "duration" : 440
+      }
+    } ]
+  },
+  "eabbf00e969efde04440ad46f441c6ab" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae5234c49d91f984",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636737571,
+        "stop" : 1646636737763,
+        "duration" : 192
+      }
+    } ]
+  },
+  "e60be657078191df42dec6030480170a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae19384152183682",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636742306,
+        "stop" : 1646636742432,
+        "duration" : 126
+      }
+    } ]
+  },
+  "2afa5a18d921a09ed77e585c6866c38f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edbe973cfdd6bcf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636734421,
+        "stop" : 1646636734601,
+        "duration" : 180
+      }
+    } ]
+  },
+  "e48bac5e99095e3f78623bb3600aa20a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd244cb06001fb08",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636746609,
+        "stop" : 1646636746784,
+        "duration" : 175
+      }
+    } ]
+  },
+  "7c2128162e9d03e52552b2c3d5d6f795" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8238cd8247c3cad5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636741710,
+        "stop" : 1646636741809,
+        "duration" : 99
+      }
+    } ]
+  },
+  "e7635a311924c589ebc54b6ad859841" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b93c21a1bbc8f13",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636749205,
+        "stop" : 1646636749316,
+        "duration" : 111
+      }
+    } ]
+  },
+  "ee1d9b960b29fbdd510ecbefca779e66" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16ce528b7d67b585",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636748640,
+        "stop" : 1646636748962,
+        "duration" : 322
+      }
+    } ]
+  },
+  "7e574419c70d6709998d6befdc1dcb03" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19c26c20f475575c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636748416,
+        "stop" : 1646636748532,
+        "duration" : 116
+      }
+    } ]
+  },
+  "efb2f78953e86f0ea9266bc79b978655" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65429b3f20a61178",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636740573,
+        "stop" : 1646636740703,
+        "duration" : 130
+      }
+    } ]
+  },
+  "6df162625b947480e199308321333c27" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd33a1af44a2f865",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636746345,
+        "stop" : 1646636746444,
+        "duration" : 99
+      }
+    } ]
+  },
+  "b56c1a2696c0dba3b9a43ffbf625ca1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0280aa8d91746c8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636735968,
+        "stop" : 1646636736073,
+        "duration" : 105
+      }
+    } ]
+  },
+  "17b8fbce118f429fa86f46643dfe6050" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0dea0e4c906f381",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636743332,
+        "stop" : 1646636743530,
+        "duration" : 198
+      }
+    } ]
+  },
+  "a90d62c90432370f263b17b5c9513110" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6db07c3c4e10c34c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636748533,
+        "stop" : 1646636748635,
+        "duration" : 102
+      }
+    } ]
+  },
+  "fafdbd877365156d60347b28a739ecb3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72b77d0e74e633ad",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636747189,
+        "stop" : 1646636747336,
+        "duration" : 147
+      }
+    } ]
+  },
+  "3c01a11c93772ce42dc2c2c592f47588" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7172a58bbf29c5f6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636743235,
+        "stop" : 1646636743331,
+        "duration" : 96
+      }
+    } ]
+  },
+  "df815203226bc81d73ca9bef82773a93" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88da507f42c92372",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636734603,
+        "stop" : 1646636734756,
+        "duration" : 153
+      }
+    } ]
+  },
+  "8784eac9155d2a887ec9fbd607adef6c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4410cb101c8562",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636737925,
+        "stop" : 1646636738112,
+        "duration" : 187
+      }
+    } ]
+  },
+  "e576688eca84ba81769db8c27ee579a6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa1eee155359f74d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636745692,
+        "stop" : 1646636745824,
+        "duration" : 132
+      }
+    } ]
+  },
+  "b8ad506d50f640af397d92c76fb2c93e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45c4a680e28ec933",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636742200,
+        "stop" : 1646636742304,
+        "duration" : 104
+      }
+    } ]
+  },
+  "b410042fab2e3ab7665197b6fed14799" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45d02917628d0aa8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636747700,
+        "stop" : 1646636747873,
+        "duration" : 173
+      }
+    } ]
+  },
+  "29b18bfae39b65c4c7de877693aaaad3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c02cd4318b8e1928",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636747493,
+        "stop" : 1646636747587,
+        "duration" : 94
+      }
+    } ]
+  },
+  "9025d513a87d1df32d5aff945b74de7d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a90c7a0e9c62e55",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636743847,
+        "stop" : 1646636743957,
+        "duration" : 110
+      }
+    } ]
+  },
+  "103e2e2823c91cade49a9292ccc2134c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef5f7b224c39582c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636740929,
+        "stop" : 1646636741040,
+        "duration" : 111
+      }
+    } ]
+  },
+  "fb515afe03b62ef6b6a0d8856b059a8a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f34cffa0ffbc869a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636747878,
+        "stop" : 1646636747983,
+        "duration" : 105
+      }
+    } ]
+  },
+  "d33278ab519e6d432af1975be11a8151" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40b5b4dc704afdc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\";\"restrictions\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636741945,
+        "stop" : 1646636742071,
+        "duration" : 126
+      }
+    } ]
+  },
+  "bcb80057c2c8167416d636b822af7fce" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9239c028cbe18a3f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636749660,
+        "stop" : 1646636749792,
+        "duration" : 132
+      }
+    } ]
+  },
+  "d663b7f196aedb8d5e62bc77b1498274" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98549c9f88fa02da",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636743958,
+        "stop" : 1646636744061,
+        "duration" : 103
+      }
+    } ]
+  },
+  "eb49ac61f2f964d5f77ade9e8921f347" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24eb50ae49944152",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636749319,
+        "stop" : 1646636749418,
+        "duration" : 99
+      }
+    } ]
+  },
+  "b4348f0e66bad35dc4469d798afb5bcb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b457cf070ef58f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/items/[item]/preview_url'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636747984,
+        "stop" : 1646636748208,
+        "duration" : 224
+      }
+    } ]
+  },
+  "7b1f191d43dea2b55de0a297f02065c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5116154eebb6eb13",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636745155,
+        "stop" : 1646636745498,
+        "duration" : 343
+      }
+    } ]
+  },
+  "a2454e6bf9f376743fda232e45f561eb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "354f025800a6f024",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636739609,
+        "stop" : 1646636739714,
+        "duration" : 105
+      }
+    } ]
+  },
+  "1ad937b2d53bfc5504b7d2dc8cf5ed14" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb1f3d317a0d43bc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636743109,
+        "stop" : 1646636743233,
+        "duration" : 124
+      }
+    } ]
+  },
+  "6e79f4ecb4db914976c45ab9fdf13323" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "daab6bd8b8a36432",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636739716,
+        "stop" : 1646636739809,
+        "duration" : 93
+      }
+    } ]
+  },
+  "9ceda68d867a06f36fe16fb13852c478" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65d4f3790534d86f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636739124,
+        "stop" : 1646636739225,
+        "duration" : 101
+      }
+    } ]
+  },
+  "f4bd46902746d884e47cc04439ba4626" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "660ecb417a6247c5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/albums/[item]'] Object instance has properties which are not allowed by the schema: [\"label\";\"total_tracks\"] --- [Path '/albums/[item]/tracks/items/[item]'] Object instance has properties which are not allowed by the schema: [\"is_local\"] --- [Path '/albums/[item]/tracks/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/albums/[item]/tracks/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646636739446,
+        "stop" : 1646636739606,
+        "duration" : 160
+      }
+    } ]
+  },
+  "2a90d35ff31ae15ee30d8c0d5b26f281" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d497e0237dbdf888",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636742072,
+        "stop" : 1646636742198,
+        "duration" : 126
+      }
+    } ]
+  },
+  "fb3c155fdabd402e34a8e8229216c1fb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e19bbba3ecbd7ce",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/albums'.",
+      "time" : {
+        "start" : 1646636744213,
+        "stop" : 1646636744313,
+        "duration" : 100
+      }
+    } ]
+  }
+}

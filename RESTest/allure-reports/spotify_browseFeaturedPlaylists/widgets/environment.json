@@ -1,0 +1,55 @@
+[ {
+  "values" : [ "spotify_browseFeaturedPlaylists" ],
+  "name" : "api"
+}, {
+  "values" : [ "FT" ],
+  "name" : "generator"
+}, {
+  "values" : [ "100" ],
+  "name" : "testsperoperation"
+}, {
+  "values" : [ "src/test/resources/Spotify/swagger.yaml" ],
+  "name" : "oas.path"
+}, {
+  "values" : [ "src/test/resources/Spotify/testConf_browseFeaturedPlaylists.yaml" ],
+  "name" : "conf.path"
+}, {
+  "values" : [ "src/generation/java/spotify_browseFeaturedPlaylists" ],
+  "name" : "test.target.dir"
+}, {
+  "values" : [ "spotify_browseFeaturedPlaylists" ],
+  "name" : "test.target.package"
+}, {
+  "values" : [ "spotify_browseFeaturedPlaylists" ],
+  "name" : "experiment.name"
+}, {
+  "values" : [ "Spotify_browseFeaturedPlaylists" ],
+  "name" : "testclass.name"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.input"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.output"
+}, {
+  "values" : [ "true" ],
+  "name" : "stats.csv"
+}, {
+  "values" : [ "100" ],
+  "name" : "numtotaltestcases"
+}, {
+  "values" : [ "3600" ],
+  "name" : "delay"
+}, {
+  "values" : [ "0.5" ],
+  "name" : "faulty.ratio"
+}, {
+  "values" : [ "0.5" ],
+  "name" : "faulty.dependency.ratio"
+}, {
+  "values" : [ "100" ],
+  "name" : "reloadinputdataevery"
+}, {
+  "values" : [ "1000" ],
+  "name" : "inputdatamaxvalues"
+} ]

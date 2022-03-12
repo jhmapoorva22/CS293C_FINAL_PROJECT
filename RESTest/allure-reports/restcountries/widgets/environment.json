@@ -1,0 +1,55 @@
+[ {
+  "values" : [ "Restcountries" ],
+  "name" : "api"
+}, {
+  "values" : [ "FT" ],
+  "name" : "generator"
+}, {
+  "values" : [ "100" ],
+  "name" : "testsperoperation"
+}, {
+  "values" : [ "src/test/resources/Restcountries/openapi.yaml" ],
+  "name" : "oas.path"
+}, {
+  "values" : [ "src/test/resources/Restcountries/testConf.yaml" ],
+  "name" : "conf.path"
+}, {
+  "values" : [ "src/generation/java/restcountries" ],
+  "name" : "test.target.dir"
+}, {
+  "values" : [ "restcountries" ],
+  "name" : "test.target.package"
+}, {
+  "values" : [ "restcountries" ],
+  "name" : "experiment.name"
+}, {
+  "values" : [ "RestcountriesTest" ],
+  "name" : "testclass.name"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.input"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.output"
+}, {
+  "values" : [ "true" ],
+  "name" : "stats.csv"
+}, {
+  "values" : [ "-1" ],
+  "name" : "numtotaltestcases"
+}, {
+  "values" : [ "3600" ],
+  "name" : "delay"
+}, {
+  "values" : [ "0.5" ],
+  "name" : "faulty.ratio"
+}, {
+  "values" : [ "0" ],
+  "name" : "faulty.dependency.ratio"
+}, {
+  "values" : [ "100" ],
+  "name" : "reloadinputdataevery"
+}, {
+  "values" : [ "1000" ],
+  "name" : "inputdatamaxvalues"
+} ]

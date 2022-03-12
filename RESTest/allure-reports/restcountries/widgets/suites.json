@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "4ba5751ac2f3534036ffbd2a572b042f",
+    "name" : "restcountries.RestcountriesTest_1646969940513",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2100,
+      "unknown" : 0,
+      "total" : 2100
+    }
+  } ]
+}

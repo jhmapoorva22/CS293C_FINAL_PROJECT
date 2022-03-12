@@ -1,0 +1,14 @@
+launch_status failed=476 1646725599000000000
+launch_status broken=63 1646725599000000000
+launch_status passed=61 1646725599000000000
+launch_status skipped=0 1646725599000000000
+launch_status unknown=0 1646725599000000000
+launch_time duration=8449660 1646725599000000000
+launch_time min_duration=22 1646725599000000000
+launch_time max_duration=75138 1646725599000000000
+launch_time sum_duration=4834166 1646725599000000000
+launch_problems severity_1:_disconformity_with_oas=395 1646725599000000000
+launch_problems severity_2:_status_5xx=81 1646725599000000000
+launch_problems broken_tests=63 1646725599000000000
+launch_retries retries=0 1646725599000000000
+launch_retries run=600 1646725599000000000

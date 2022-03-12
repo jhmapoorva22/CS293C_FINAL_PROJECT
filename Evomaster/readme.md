@@ -1,0 +1,3 @@
+- EvoMaster (www.evomaster.org) is the first (2016) open-source AI-driven tool that automatically generates system-level test cases for web/enterprise applications in a white-box setting.
+- Evomaster provides installers for the main operating systems: Windows (.msi), OSX (.dmg) and Linux (.deb) and alslo provides an uber-fat JAR file. For the scope of this project, we mainly made use of the v1.4.0 jar file provided in the releases https://github.com/EMResearch/EvoMaster/releases
+- For using EvoMaster for whitebox testing, we wrote a driver manually for RESTCountries API. 

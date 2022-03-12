@@ -1,0 +1,5969 @@
+{
+  "3f30cd1f1d3e985cf82379ecaeb4231" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4638c606c2198166",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717163371,
+        "stop" : 1646717163411,
+        "duration" : 40
+      }
+    } ]
+  },
+  "477639705c2e55f2cb9aa8546e16b49e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9516a1d854055973",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717155567,
+        "stop" : 1646717155634,
+        "duration" : 67
+      }
+    } ]
+  },
+  "fdef9343d881ac3ba3125c1f3337081f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eef7e9b9d4c6be8e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717160784,
+        "stop" : 1646717160820,
+        "duration" : 36
+      }
+    } ]
+  },
+  "bd471e240f6d6644caeba600236dcf10" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90a405f14c603cc6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string -Y2pAMG0#Nm#d:_=!H.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165963,
+        "stop" : 1646717165997,
+        "duration" : 34
+      }
+    } ]
+  },
+  "b5fd00003c340118abc09dcdc2cd285a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "685dd34351e7cea2",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717163278,
+        "stop" : 1646717163325,
+        "duration" : 47
+      }
+    } ]
+  },
+  "1b91e9eed6edefb473f64a2870cda10c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0c4972d0461774",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717160302,
+        "stop" : 1646717160360,
+        "duration" : 58
+      }
+    } ]
+  },
+  "cd986170fb3df2a8737fd529a46f6fda" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bf66c23f3602aa1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717146110,
+        "stop" : 1646717146155,
+        "duration" : 45
+      }
+    } ]
+  },
+  "56b3fc1fb73b4241207e66677b34cdc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d5550753ba809f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717164025,
+        "stop" : 1646717164064,
+        "duration" : 39
+      }
+    } ]
+  },
+  "c06825d76fabc15ed011d0ba2f15e879" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67245e3bfce1cc11",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158226,
+        "stop" : 1646717158307,
+        "duration" : 81
+      }
+    } ]
+  },
+  "37b4d95cc88a9d55b953eb90e038b0ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "840973593adae4dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717156085,
+        "stop" : 1646717156127,
+        "duration" : 42
+      }
+    } ]
+  },
+  "e2a5e67c8d301ae00e3fe997b7a2bdf3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c056d9267914ab5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151473,
+        "stop" : 1646717151620,
+        "duration" : 147
+      }
+    } ]
+  },
+  "700f6e02a5e979aee0d783f28ad38701" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "989545abbfe6ba2",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717146033,
+        "stop" : 1646717146108,
+        "duration" : 75
+      }
+    } ]
+  },
+  "78151da003b5bcd356c9152a951891e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "618e2a1d81e9852c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717160728,
+        "stop" : 1646717160783,
+        "duration" : 55
+      }
+    } ]
+  },
+  "4304c62bc177bf1386e89ba33fd3e04f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "184ed87e46037417",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717160406,
+        "stop" : 1646717160687,
+        "duration" : 281
+      }
+    } ]
+  },
+  "ac30e42ff1e7170aa309dc5ed5c415f7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d94582a63325fc80",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717153046,
+        "stop" : 1646717153311,
+        "duration" : 265
+      }
+    } ]
+  },
+  "a1ad985c05682d59d01558ba9f792d87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ae350b937b9293e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717160688,
+        "stop" : 1646717160727,
+        "duration" : 39
+      }
+    } ]
+  },
+  "7be25016c8db99893f3256d0cf1254b6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a7f923c3a7fdcae",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717157781,
+        "stop" : 1646717157926,
+        "duration" : 145
+      }
+    } ]
+  },
+  "6421ab8166118babd25ca1737cf85fe5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "def02baa8f9f9091",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string Hvf{lm%|K}*$f`H^.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717146214,
+        "stop" : 1646717146398,
+        "duration" : 184
+      }
+    } ]
+  },
+  "85033c50a005ec75ee229ff5ffe9a9d6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "217d162037f5acee",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164307,
+        "stop" : 1646717164341,
+        "duration" : 34
+      }
+    } ]
+  },
+  "86bacd980c0c902c5adfca9971278ea" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e730913ccf5fe4c7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717157602,
+        "stop" : 1646717157677,
+        "duration" : 75
+      }
+    } ]
+  },
+  "aab5b3ff0daa2f69f100d489625c025d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5319bd9f7e21dbb2",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717155009,
+        "stop" : 1646717155050,
+        "duration" : 41
+      }
+    } ]
+  },
+  "20cf9a3af6ee7c74eef208e1e7006c4e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9ec3f33922d74d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717162727,
+        "stop" : 1646717162755,
+        "duration" : 28
+      }
+    } ]
+  },
+  "eb5245e298aee963c480c2071aa91826" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a47d4ce28cb83bf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155140,
+        "stop" : 1646717155385,
+        "duration" : 245
+      }
+    } ]
+  },
+  "a1b5fc17c4339113a733d5deae75f6da" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8347ef3619d14c74",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717155493,
+        "stop" : 1646717155529,
+        "duration" : 36
+      }
+    } ]
+  },
+  "ee7b979fb09d91b3c1296eef47861ed1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2719fd6da4a550a",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717160822,
+        "stop" : 1646717160861,
+        "duration" : 39
+      }
+    } ]
+  },
+  "7fcbe5e51fbd640aa075a8335623272a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768e34599d5faf82",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156128,
+        "stop" : 1646717156197,
+        "duration" : 69
+      }
+    } ]
+  },
+  "fc53cadff73dcac20b1768158558532d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98541297d6cf03c9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164342,
+        "stop" : 1646717164423,
+        "duration" : 81
+      }
+    } ]
+  },
+  "33d7c68df5a2825151e07b563de265e9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dfc814d09f763a4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158613,
+        "stop" : 1646717158651,
+        "duration" : 38
+      }
+    } ]
+  },
+  "32b874d12a325e78c6effe5bfa4bb226" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d133bb7669e647c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154358,
+        "stop" : 1646717154392,
+        "duration" : 34
+      }
+    } ]
+  },
+  "2fdeac3dee1fa1dae3b8b0af826a04c1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba810366d48a43ea",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152880,
+        "stop" : 1646717152941,
+        "duration" : 61
+      }
+    } ]
+  },
+  "14570304eb345a891e58071cd15f8391" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe6c9cbd11b7a37b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162969,
+        "stop" : 1646717163003,
+        "duration" : 34
+      }
+    } ]
+  },
+  "8e2d5c44286ee3990292c87f6f2d60c8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed347a03bec93f6a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717147238,
+        "stop" : 1646717147292,
+        "duration" : 54
+      }
+    } ]
+  },
+  "3336ac833f94cb49e4cbdb3b5bb7c34f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "753244ee51b688f0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string null.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717153314,
+        "stop" : 1646717153350,
+        "duration" : 36
+      }
+    } ]
+  },
+  "d3898faf706055c2683586282d5b5bcd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f5030861729eadf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165277,
+        "stop" : 1646717165338,
+        "duration" : 61
+      }
+    } ]
+  },
+  "71e3bec535588e03c58c67ddd9817176" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9182e2fed090c932",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717160024,
+        "stop" : 1646717160066,
+        "duration" : 42
+      }
+    } ]
+  },
+  "34f032fe98a38a60abd160158c48849e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c1a2285e386a448",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149269,
+        "stop" : 1646717149312,
+        "duration" : 43
+      }
+    } ]
+  },
+  "ec4e8c578f92704d8c4f3504a9d37fea" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb00c1f5c44d03bd",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717145987,
+        "stop" : 1646717146030,
+        "duration" : 43
+      }
+    } ]
+  },
+  "7d8f3bd1e46b4af85e250e6151b650f0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3d3e7597c54750",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717162287,
+        "stop" : 1646717162317,
+        "duration" : 30
+      }
+    } ]
+  },
+  "ae0abc8e7c51a4dc5a0ad31cb00b618a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18185b685be41a63",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717144542,
+        "stop" : 1646717144753,
+        "duration" : 211
+      }
+    } ]
+  },
+  "c64825e3e82725ccde2185133df291a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6878a38ee877aa8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717162827,
+        "stop" : 1646717162864,
+        "duration" : 37
+      }
+    } ]
+  },
+  "f5b40261f79ae56c3816739951833c1e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "219d9185e3e43be8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717147654,
+        "stop" : 1646717147695,
+        "duration" : 41
+      }
+    } ]
+  },
+  "81b7819505c39db74e02f00b1911441" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae37985f2a2fd648",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string KSI<<#8P$UNheM6fe[.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165928,
+        "stop" : 1646717165962,
+        "duration" : 34
+      }
+    } ]
+  },
+  "ea5f4f3bb6ca89b6460e68e4c5ac6d3e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ee1bdf19062c16",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165235,
+        "stop" : 1646717165276,
+        "duration" : 41
+      }
+    } ]
+  },
+  "722c4a6bb8941c8ad404b8ddedb99f93" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "671a803f66bd888c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717153751,
+        "stop" : 1646717153791,
+        "duration" : 40
+      }
+    } ]
+  },
+  "92f976a35b1cfa7c0d974ceb2e6913d9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0998a670851f982",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717164857,
+        "stop" : 1646717164900,
+        "duration" : 43
+      }
+    } ]
+  },
+  "e9ad0db93f13bcd565309846d6d20a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db4604fc437caafe",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717157709,
+        "stop" : 1646717157779,
+        "duration" : 70
+      }
+    } ]
+  },
+  "bb627bb7cac70639cef4d47ed533aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b32d0537ae23f72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717155101,
+        "stop" : 1646717155139,
+        "duration" : 38
+      }
+    } ]
+  },
+  "cb8faab09c3f03c53176983948fa008d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd3c554e32391089",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717163889,
+        "stop" : 1646717163949,
+        "duration" : 60
+      }
+    } ]
+  },
+  "d706821f473eed81e589b099a814f62e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1660c8628d2bb21d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string Yot84hEUkCW|dR3[%rh^.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717147493,
+        "stop" : 1646717147548,
+        "duration" : 55
+      }
+    } ]
+  },
+  "65c3643e822f75e4325bc1364e315ca1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a284dd7edc821525",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717162928,
+        "stop" : 1646717162968,
+        "duration" : 40
+      }
+    } ]
+  },
+  "83b51dbfa4b337c41acbeaed0d637622" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b221f8ae629204a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717152295,
+        "stop" : 1646717152330,
+        "duration" : 35
+      }
+    } ]
+  },
+  "12ece18bdb32b7578ea9c9a2a0c8778b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23086c25e9664c31",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717157254,
+        "stop" : 1646717157511,
+        "duration" : 257
+      }
+    } ]
+  },
+  "e22f000c413aa78919c0dc1400997553" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f3e80d7693199fe",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717155670,
+        "stop" : 1646717155824,
+        "duration" : 154
+      }
+    } ]
+  },
+  "db0960134bbd9ea4431037f35c0a043d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4593a79929dd5841",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717150858,
+        "stop" : 1646717150911,
+        "duration" : 53
+      }
+    } ]
+  },
+  "a6e71de140c069c85ea81719ce9b1a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e8a40e05f5079b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717166072,
+        "stop" : 1646717166134,
+        "duration" : 62
+      }
+    } ]
+  },
+  "5b807a9decc98ce38ddf1c62ce923c9f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6bae7e868707b11",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151796,
+        "stop" : 1646717151836,
+        "duration" : 40
+      }
+    } ]
+  },
+  "52f476bb4bfd48be2eb3a47f7446bcb6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a3f179ffcb65c22",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717165541,
+        "stop" : 1646717165573,
+        "duration" : 32
+      }
+    } ]
+  },
+  "e06bd342e60d8f45a109824e8dac90b3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "463e86b1bd6f4e78",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 8-v>zf7Zd0jT@L2m\\;4%.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161022,
+        "stop" : 1646717161063,
+        "duration" : 41
+      }
+    } ]
+  },
+  "37a38aef47ca10014e5c6ec701127d67" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f9aa5584de339f2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717145303,
+        "stop" : 1646717145386,
+        "duration" : 83
+      }
+    } ]
+  },
+  "c2941e4d93c710b64340580099aa3467" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5888c9b3b15d837b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717149817,
+        "stop" : 1646717149889,
+        "duration" : 72
+      }
+    } ]
+  },
+  "d02e1acc227eb5fe212337f67ac784d5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7ff08de8c45868e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string T]Gd;7$EBTX:I)=m;F=.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162473,
+        "stop" : 1646717162726,
+        "duration" : 253
+      }
+    } ]
+  },
+  "4d64506a76c3ded444e35f70b2c6cc7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c3b62183e75edeb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string XMY'z!yh%cZ:6~&MkH.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717149491,
+        "stop" : 1646717149549,
+        "duration" : 58
+      }
+    } ]
+  },
+  "8699183b64a5dfb407d70fa269f552c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f53fee7b23041c66",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string  Ph]I3~Vz*DL.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159656,
+        "stop" : 1646717159685,
+        "duration" : 29
+      }
+    } ]
+  },
+  "389627a895f639644370a02bc05805f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "172610f7995be062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717153540,
+        "stop" : 1646717153681,
+        "duration" : 141
+      }
+    } ]
+  },
+  "91d04f85cab8d5b0e2ee0d9e0a01279" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "258c0f5ab0e46eb4",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717145134,
+        "stop" : 1646717145300,
+        "duration" : 166
+      }
+    } ]
+  },
+  "b32e788d99da4a0f9f7f9989d7125a39" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c68456ca5d97ca7a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717165507,
+        "stop" : 1646717165540,
+        "duration" : 33
+      }
+    } ]
+  },
+  "3e65b1cd1c0dc909219336be01f572e1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf1a1d321b9e8f66",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152018,
+        "stop" : 1646717152261,
+        "duration" : 243
+      }
+    } ]
+  },
+  "9083ad20566361e211089b18a25a3184" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f9ececef9a8cef8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717164901,
+        "stop" : 1646717164952,
+        "duration" : 51
+      }
+    } ]
+  },
+  "2b650f805342a0e818541f86cb412d7f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "683421f002177d6d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164998,
+        "stop" : 1646717165033,
+        "duration" : 35
+      }
+    } ]
+  },
+  "6334535f70672cff2650c2005c2d31d5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7869c07f931a5323",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717155386,
+        "stop" : 1646717155425,
+        "duration" : 39
+      }
+    } ]
+  },
+  "6e705583c42059e27d4ad8d431e348ba" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfdc56e7103f5bbc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string HZ)]hZ&!P])<v [|ISB1.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162318,
+        "stop" : 1646717162397,
+        "duration" : 79
+      }
+    } ]
+  },
+  "3075a29c8295f1408d632415b7a2f19a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63fd49135330b0cc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148705,
+        "stop" : 1646717148783,
+        "duration" : 78
+      }
+    } ]
+  },
+  "654cdccd30ab24e033217a869d0d0174" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa22c335f41c872f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164222,
+        "stop" : 1646717164305,
+        "duration" : 83
+      }
+    } ]
+  },
+  "6c163e1284af7d2892b5c9abd70a66a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2d8458ec6acfc0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717153460,
+        "stop" : 1646717153497,
+        "duration" : 37
+      }
+    } ]
+  },
+  "d4f71815f4d0ee3359a6f441c1306fc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b35fce976feb8ba7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717158576,
+        "stop" : 1646717158612,
+        "duration" : 36
+      }
+    } ]
+  },
+  "60a438dd45470a60a28045de2a54000d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26f32184e49911f3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string g&)7R&R\\fH}%}D%`=w.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717145693,
+        "stop" : 1646717145985,
+        "duration" : 292
+      }
+    } ]
+  },
+  "725f3b7dee65ecc17346e5ceb7e5487c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90a1a50a7040bf4d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149357,
+        "stop" : 1646717149489,
+        "duration" : 132
+      }
+    } ]
+  },
+  "5d14b7c4e2d087eda2cc48605d5a4b16" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90edb4168b753375",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155051,
+        "stop" : 1646717155097,
+        "duration" : 46
+      }
+    } ]
+  },
+  "1942426a18808867136caf909518cc60" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "137a36498e3ffc2c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717146520,
+        "stop" : 1646717146606,
+        "duration" : 86
+      }
+    } ]
+  },
+  "f181704cc3fbe84b48a273d32cf6c92c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "140dfec32efed231",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717161295,
+        "stop" : 1646717161344,
+        "duration" : 49
+      }
+    } ]
+  },
+  "440051412994e887f9be6fadded3c794" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f92e600ab93c48f7",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717149707,
+        "stop" : 1646717149750,
+        "duration" : 43
+      }
+    } ]
+  },
+  "3f468a6485f161ef2e9e8ccb3dc9e72e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ad000ce14c1db6d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149215,
+        "stop" : 1646717149268,
+        "duration" : 53
+      }
+    } ]
+  },
+  "69436da7eff8ed43f7abe1ee2aff739d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7af7ae0770956556",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162893,
+        "stop" : 1646717162926,
+        "duration" : 33
+      }
+    } ]
+  },
+  "d0f8d00734a7e0d33af616058ed39b9c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "769480652158b922",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717157565,
+        "stop" : 1646717157600,
+        "duration" : 35
+      }
+    } ]
+  },
+  "38077d9e93a9a35a83880ae29323468f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3162c19eded8710b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717146608,
+        "stop" : 1646717147036,
+        "duration" : 428
+      }
+    } ]
+  },
+  "6a792b3e40ab57f5d836221db4f5ad95" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c2266e9110c6d35",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152262,
+        "stop" : 1646717152294,
+        "duration" : 32
+      }
+    } ]
+  },
+  "c520bdcbe2f421dbb4f73916496052a3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf8edfb1c87b778e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159056,
+        "stop" : 1646717159090,
+        "duration" : 34
+      }
+    } ]
+  },
+  "c39412bbfe775225bfea4f5793f4a3d1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35d62fe808b72106",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string }Y~JTk|T.[CLn.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155458,
+        "stop" : 1646717155492,
+        "duration" : 34
+      }
+    } ]
+  },
+  "fa12116245877489fe8287f436dfd19a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "318143a0277a8e76",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154473,
+        "stop" : 1646717154533,
+        "duration" : 60
+      }
+    } ]
+  },
+  "9b79060689916e6bd5826ccd66740f3b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a44e78c4cb74da38",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717158766,
+        "stop" : 1646717158811,
+        "duration" : 45
+      }
+    } ]
+  },
+  "7ccbd9435d521201b09dd8ab23fbac73" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccb6ab036ea4b2c2",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717158690,
+        "stop" : 1646717158727,
+        "duration" : 37
+      }
+    } ]
+  },
+  "7afe76b0ac2169aae186ac102d2f8744" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "498fb69b79dddd43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717163810,
+        "stop" : 1646717163852,
+        "duration" : 42
+      }
+    } ]
+  },
+  "8c6210b68ec2435a6e34ae9bd94096a1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f77c73d786a70432",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string BOLIT:&P'3^.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162865,
+        "stop" : 1646717162892,
+        "duration" : 27
+      }
+    } ]
+  },
+  "6eb7921313859a75b01d92bbf5c846aa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e43998c5d1e650e",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717152842,
+        "stop" : 1646717152879,
+        "duration" : 37
+      }
+    } ]
+  },
+  "fb15861e2c7d5eedcb50f601c903353" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55c8cb3108299fdc",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717150821,
+        "stop" : 1646717150857,
+        "duration" : 36
+      }
+    } ]
+  },
+  "2bfc81263e8bbac1149a709856aa3826" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bf10a65447d3cd2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149313,
+        "stop" : 1646717149356,
+        "duration" : 43
+      }
+    } ]
+  },
+  "80336ef0928d3113c036d0db17b9e95c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2e9b46b266462b3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string u3p9PZ\\(\"Rxg.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717152525,
+        "stop" : 1646717152656,
+        "duration" : 131
+      }
+    } ]
+  },
+  "a144196a2819777b1577ea872e3efb7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bb91f88b0466404",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717156718,
+        "stop" : 1646717156869,
+        "duration" : 151
+      }
+    } ]
+  },
+  "e2f5ce6e664f9b4919f13e3aded7aedf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e3773ce3fd64b8",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717164535,
+        "stop" : 1646717164572,
+        "duration" : 37
+      }
+    } ]
+  },
+  "5c3a662ddc849f860ef86b5b3fb22e46" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc8584a1e829ad7a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 7$< ')r-]kl)AP5\\|ju.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717152796,
+        "stop" : 1646717152840,
+        "duration" : 44
+      }
+    } ]
+  },
+  "740773e94edf21ab83444231fd39d777" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3bb345f0bab4b31",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717154570,
+        "stop" : 1646717154619,
+        "duration" : 49
+      }
+    } ]
+  },
+  "7a3f29747ebec0c32ae4381c12dd24ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c345253bdfff9f2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717157970,
+        "stop" : 1646717158032,
+        "duration" : 62
+      }
+    } ]
+  },
+  "a4773355b31d4408fe2a49fd931322f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d77c6924279d830",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717162113,
+        "stop" : 1646717162153,
+        "duration" : 40
+      }
+    } ]
+  },
+  "db423eed1906bb2debbc7ae95f529730" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62c7f75e3c3bd320",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717164573,
+        "stop" : 1646717164856,
+        "duration" : 283
+      }
+    } ]
+  },
+  "fa8327c3f14474b12b69f3f70a2db263" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f44ea3351d7bff39",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161769,
+        "stop" : 1646717161807,
+        "duration" : 38
+      }
+    } ]
+  },
+  "577dacd18b1ff59b3a1884d1bc706334" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9d908e7a66373bc",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717165430,
+        "stop" : 1646717165468,
+        "duration" : 38
+      }
+    } ]
+  },
+  "85d9e09cc6c90423b9981033fdc799f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8054819b8986de24",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717145527,
+        "stop" : 1646717145596,
+        "duration" : 69
+      }
+    } ]
+  },
+  "da77d597d074dcfcf78eb4bf21ecf195" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee0beab6b6f61357",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717161178,
+        "stop" : 1646717161208,
+        "duration" : 30
+      }
+    } ]
+  },
+  "2b4f64b40091b384b2e2a664659f5a45" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d961ed24ffc8156a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717152371,
+        "stop" : 1646717152405,
+        "duration" : 34
+      }
+    } ]
+  },
+  "808a42167e3a765c6ee62b9f3eaddaa8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7103124b40b64ab9",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717147609,
+        "stop" : 1646717147652,
+        "duration" : 43
+      }
+    } ]
+  },
+  "c0d87dac8422a633d1ce80a23863f73a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69634452e95d85d2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string M(#(kJy7x';Kv.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717153954,
+        "stop" : 1646717153996,
+        "duration" : 42
+      }
+    } ]
+  },
+  "b25cdae04c9144fd561eba97f54fab8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "765c9779f51c6dbf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156023,
+        "stop" : 1646717156084,
+        "duration" : 61
+      }
+    } ]
+  },
+  "c98803f84bc41144c792cf91525781a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc46aa0afbc8f9d4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717165339,
+        "stop" : 1646717165393,
+        "duration" : 54
+      }
+    } ]
+  },
+  "cc27eab68ff41c4c9e908a5eb742a2ca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d53abdc0166679dc",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717161808,
+        "stop" : 1646717161846,
+        "duration" : 38
+      }
+    } ]
+  },
+  "2a16aa45b54e4b08b903e7f3377b6748" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57b737343f27c66b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717150960,
+        "stop" : 1646717151263,
+        "duration" : 303
+      }
+    } ]
+  },
+  "96ddc26bb32ccd3a668cc1e59d74c3b8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdb0dc7099de8f47",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717159270,
+        "stop" : 1646717159318,
+        "duration" : 48
+      }
+    } ]
+  },
+  "d19f44fbe7ec42900a0b49432e2a0e3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86eac085c4532342",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717153682,
+        "stop" : 1646717153750,
+        "duration" : 68
+      }
+    } ]
+  },
+  "5f23d679cde246ebdefd1741740577b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "808c5c119f83f2e6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158653,
+        "stop" : 1646717158688,
+        "duration" : 35
+      }
+    } ]
+  },
+  "3df8b2e36a3618b58d80879d1256f3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cbda06270186313",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148155,
+        "stop" : 1646717148215,
+        "duration" : 60
+      }
+    } ]
+  },
+  "ba6910f967c1ece42d597efbc2f88d6e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e76c5c8fce98e197",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149593,
+        "stop" : 1646717149664,
+        "duration" : 71
+      }
+    } ]
+  },
+  "8137ce8f6ddfff312a8e41c2008e795e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2f9f40db4897a94",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154761,
+        "stop" : 1646717154800,
+        "duration" : 39
+      }
+    } ]
+  },
+  "1a7384339f1afb418260a7ea98dc29e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1141273dd2d63ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717159990,
+        "stop" : 1646717160023,
+        "duration" : 33
+      }
+    } ]
+  },
+  "590387d8ee4fd8cef46eff992a73dd67" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c33f0b3fb6715b23",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717153411,
+        "stop" : 1646717153459,
+        "duration" : 48
+      }
+    } ]
+  },
+  "3b4ffbc348c393d31167ded3430e2e9b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7302952c71d7ed75",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149666,
+        "stop" : 1646717149706,
+        "duration" : 40
+      }
+    } ]
+  },
+  "b222736108f32fafbd121dfe1a59cf80" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbc2d32bd6b3376a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string So5YX>KsQ >F`pG.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717150191,
+        "stop" : 1646717150359,
+        "duration" : 168
+      }
+    } ]
+  },
+  "4ae02dde5367c34f65ca1a119f4ecd01" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0db417b83288a7b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717156620,
+        "stop" : 1646717156646,
+        "duration" : 26
+      }
+    } ]
+  },
+  "82bdd660fd753bf88ffaf0941578e6b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79790ecef07da00e",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717151622,
+        "stop" : 1646717151700,
+        "duration" : 78
+      }
+    } ]
+  },
+  "71936040f8908e1f6c82c9d7049f6657" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1078047484a83ea3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151309,
+        "stop" : 1646717151351,
+        "duration" : 42
+      }
+    } ]
+  },
+  "3da73fbabafba81400fbf5f3bf61e6d9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ff5bf441baea971",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717151352,
+        "stop" : 1646717151386,
+        "duration" : 34
+      }
+    } ]
+  },
+  "30fb536e0dfedcbe5368d8040fcda803" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9a328545c263261",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string (hMBtaNNm|.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161741,
+        "stop" : 1646717161768,
+        "duration" : 27
+      }
+    } ]
+  },
+  "da57582eae154bc9847fcbbf35be2d73" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30fe13a6e9324c42",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164189,
+        "stop" : 1646717164221,
+        "duration" : 32
+      }
+    } ]
+  },
+  "d9e303126acddbced5e28a6e1b8d3815" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ac322cf0a69b4ac",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717154098,
+        "stop" : 1646717154357,
+        "duration" : 259
+      }
+    } ]
+  },
+  "f5893afa642ca39a038e95427746cd74" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afd554e048fb3d8e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717166041,
+        "stop" : 1646717166071,
+        "duration" : 30
+      }
+    } ]
+  },
+  "49f9c0aa3df4cfe4dd57497080a7f0d8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dba68882f5e49c7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string W~hM=O:VDx}.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717156592,
+        "stop" : 1646717156619,
+        "duration" : 27
+      }
+    } ]
+  },
+  "a9e3b31fd9e1996bb52dfddeb593663b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8f8ade50fa64493",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717159755,
+        "stop" : 1646717159823,
+        "duration" : 68
+      }
+    } ]
+  },
+  "f9dc61c8af76a2c24774288a275262c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "663d6133405e22c",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717152657,
+        "stop" : 1646717152697,
+        "duration" : 40
+      }
+    } ]
+  },
+  "52a8c807aa6b9de8bbf940c087d36c8e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e225d58a03ed4299",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148513,
+        "stop" : 1646717148576,
+        "duration" : 63
+      }
+    } ]
+  },
+  "936f225d5f30f1ffda7fe9a7cb589487" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be5204bc7f70bb73",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717157512,
+        "stop" : 1646717157564,
+        "duration" : 52
+      }
+    } ]
+  },
+  "7100783f90c8582fff723cdc2bd4f101" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75447ff91db74be4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156198,
+        "stop" : 1646717156466,
+        "duration" : 268
+      }
+    } ]
+  },
+  "3ea514b6336bde7084119cdc9414522b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74f6483002c56015",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161064,
+        "stop" : 1646717161139,
+        "duration" : 75
+      }
+    } ]
+  },
+  "f7913369968a866a57f149c129adb774" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e9a94e86494e433",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717147172,
+        "stop" : 1646717147236,
+        "duration" : 64
+      }
+    } ]
+  },
+  "b66628665e53b7ad03b1fba076a1d037" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70289abcdc67442e",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717151953,
+        "stop" : 1646717152017,
+        "duration" : 64
+      }
+    } ]
+  },
+  "e4358f65342cac4551fe01efb6b27ac3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a609dbcdf747a919",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717165035,
+        "stop" : 1646717165070,
+        "duration" : 35
+      }
+    } ]
+  },
+  "95b9f261ec65ee3fdebffc0a045ef572" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81994408454a7195",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717159091,
+        "stop" : 1646717159127,
+        "duration" : 36
+      }
+    } ]
+  },
+  "435455cd9bb71d784e6c260cb8342091" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8b232f9c6929835",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717163470,
+        "stop" : 1646717163528,
+        "duration" : 58
+      }
+    } ]
+  },
+  "7ec02ef128c0cd2fcf8d7b5267ff5f6d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d98356b68ab22ed",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717152755,
+        "stop" : 1646717152795,
+        "duration" : 40
+      }
+    } ]
+  },
+  "d6586d2d42b20692cdb8ccf66a02a298" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6574b73a7081410",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717145464,
+        "stop" : 1646717145525,
+        "duration" : 61
+      }
+    } ]
+  },
+  "fc94bbd3f3e7105261ab7bd30d32b420" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7eb88145f0f604dd",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717154433,
+        "stop" : 1646717154471,
+        "duration" : 38
+      }
+    } ]
+  },
+  "342ab92db8024081b96c22eeb7564c41" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14d361df8e0ca573",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717162252,
+        "stop" : 1646717162286,
+        "duration" : 34
+      }
+    } ]
+  },
+  "ff320835f483527bd753ac2715fabc95" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ed63b839a457a8b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717151703,
+        "stop" : 1646717151794,
+        "duration" : 91
+      }
+    } ]
+  },
+  "c5dc2862bcc317b150c3d9ded57b3659" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "103a7a67c4c7590c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165104,
+        "stop" : 1646717165234,
+        "duration" : 130
+      }
+    } ]
+  },
+  "b1c672b7b8f7760f4a62fdbce53154a1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "860001655f862e7e",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717156683,
+        "stop" : 1646717156718,
+        "duration" : 35
+      }
+    } ]
+  },
+  "f4f14a3248bd60cbd12a91768224b5e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f456e0f1d9c9ceb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717160101,
+        "stop" : 1646717160152,
+        "duration" : 51
+      }
+    } ]
+  },
+  "aaee5bdaed7f3a985c0296d328e84792" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24c16cab7b0eaf84",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158075,
+        "stop" : 1646717158129,
+        "duration" : 54
+      }
+    } ]
+  },
+  "69d0d4d818d36d0a4cd1b5462ec02fdc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d52a3ae7a58a644",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717163193,
+        "stop" : 1646717163231,
+        "duration" : 38
+      }
+    } ]
+  },
+  "cb11f052aefee1e723a3caaa78d71037" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2dca0ae2a6b3bda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717153793,
+        "stop" : 1646717153825,
+        "duration" : 32
+      }
+    } ]
+  },
+  "c9a2f7a81c802b301d561bb61c3c6e1f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90770bbdbc5399ed",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717150540,
+        "stop" : 1646717150819,
+        "duration" : 279
+      }
+    } ]
+  },
+  "b17a6a2555a177bf9020002dd0fbd7e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e5fe68b5f7ba330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717164487,
+        "stop" : 1646717164535,
+        "duration" : 48
+      }
+    } ]
+  },
+  "7467171124c511ee01984da13928c81f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d56df4e5f79e0fb0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148464,
+        "stop" : 1646717148512,
+        "duration" : 48
+      }
+    } ]
+  },
+  "6861efb2cd21546b41a99b7d3e4c02d8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6447c4d6948fe07",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152984,
+        "stop" : 1646717153044,
+        "duration" : 60
+      }
+    } ]
+  },
+  "9b8e18f0ceb959a9a9b1e958b92aa7d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2796ec929b2e4e59",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717163005,
+        "stop" : 1646717163181,
+        "duration" : 176
+      }
+    } ]
+  },
+  "299dd3b7363f4242d4a3864c116e2cd6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d54a5e4c5a87debe",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154393,
+        "stop" : 1646717154431,
+        "duration" : 38
+      }
+    } ]
+  },
+  "78ddcd3624a0b30cd116860ab7b75316" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1cfd9a6c9da07ca",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717146404,
+        "stop" : 1646717146461,
+        "duration" : 57
+      }
+    } ]
+  },
+  "671a93b01a9a338b846f14da7d1bce44" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51d74d03ed848a7d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717156566,
+        "stop" : 1646717156591,
+        "duration" : 25
+      }
+    } ]
+  },
+  "1d791b2ac6b9cea969303ac37a282efb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23cf35eb0b6fc4d1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156468,
+        "stop" : 1646717156532,
+        "duration" : 64
+      }
+    } ]
+  },
+  "570486a8fa32dd482ec5b13b7756a41e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "155df99a276e85a6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string u;5;j.|F:&.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162398,
+        "stop" : 1646717162434,
+        "duration" : 36
+      }
+    } ]
+  },
+  "62b78e34bffe8236734e383fdebfa00f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "705c10c7d33039ac",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string  }%OseQ:~G_8^x(oD.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148667,
+        "stop" : 1646717148704,
+        "duration" : 37
+      }
+    } ]
+  },
+  "7bfd9eb3efe18d86ed5828171036c76c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec5d2fd5a513c096",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 'w{*2|5;:_L->Y..\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717150361,
+        "stop" : 1646717150415,
+        "duration" : 54
+      }
+    } ]
+  },
+  "efda45bca183f701769131b9aacd4101" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11e4cc144a38a980",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717153916,
+        "stop" : 1646717153953,
+        "duration" : 37
+      }
+    } ]
+  },
+  "37c0dd27d2cae0b22f40fd46d168fa16" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1fd0eaf13c4d53d7",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717144757,
+        "stop" : 1646717145055,
+        "duration" : 298
+      }
+    } ]
+  },
+  "3a80b93b2c3939ef14cede459bb2d585" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6fd6d8dbb4f0cdc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717161346,
+        "stop" : 1646717161410,
+        "duration" : 64
+      }
+    } ]
+  },
+  "978cbc2171ea430ef7185fd79d3094f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cab2fdf36e90251f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148216,
+        "stop" : 1646717148289,
+        "duration" : 73
+      }
+    } ]
+  },
+  "e5bb68ecbefaba0446eda95b81c75d80" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fba77a4251cd7c60",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717157678,
+        "stop" : 1646717157707,
+        "duration" : 29
+      }
+    } ]
+  },
+  "f1ad39a249f26b80c84d5580db9b177b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ec9cfb54163d00c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717147126,
+        "stop" : 1646717147170,
+        "duration" : 44
+      }
+    } ]
+  },
+  "2a60af293f0fca981d563f63c6c51db7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ece059b1e06c943",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717165469,
+        "stop" : 1646717165505,
+        "duration" : 36
+      }
+    } ]
+  },
+  "f5f4d0318e1e4a70dbacc05eb6e7e2b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df32daba6ee586ca",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717157217,
+        "stop" : 1646717157253,
+        "duration" : 36
+      }
+    } ]
+  },
+  "3b389b658ce64256f8a33c5219c3ee81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fca7852fbf178761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717148853,
+        "stop" : 1646717149114,
+        "duration" : 261
+      }
+    } ]
+  },
+  "1f062715c8d90ef8df213a09765c16de" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65881cc50abbac3c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717150145,
+        "stop" : 1646717150189,
+        "duration" : 44
+      }
+    } ]
+  },
+  "162f8271dd3a6685ed14973abde5d3dc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad8e954d6e8532e7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717157042,
+        "stop" : 1646717157070,
+        "duration" : 28
+      }
+    } ]
+  },
+  "fb03ff2275b7f81f4a7a73b86d99a67c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90f5c36b17017e76",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string null.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154894,
+        "stop" : 1646717154954,
+        "duration" : 60
+      }
+    } ]
+  },
+  "fa27c00608792a5a179e439ef20fccf8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a98175d665070050",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148577,
+        "stop" : 1646717148626,
+        "duration" : 49
+      }
+    } ]
+  },
+  "b958019503754343052ef93acefc4e32" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f31e0772d818a91",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717162211,
+        "stop" : 1646717162250,
+        "duration" : 39
+      }
+    } ]
+  },
+  "3aed3db1df5507e3a632bc40cbb4b171" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df1930af8a70671f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151837,
+        "stop" : 1646717151886,
+        "duration" : 49
+      }
+    } ]
+  },
+  "d1c2857887e7d9c816bb11f637ae3a71" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "951908a614a54380",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717163235,
+        "stop" : 1646717163276,
+        "duration" : 41
+      }
+    } ]
+  },
+  "f6ed0f33c644cbc85d7a8568e842c564" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "531c973cbc3c5bcd",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717165889,
+        "stop" : 1646717165927,
+        "duration" : 38
+      }
+    } ]
+  },
+  "d7a128cb52b5e4b2d98fb4de01b0c340" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3014a9fc4eec353",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159612,
+        "stop" : 1646717159654,
+        "duration" : 42
+      }
+    } ]
+  },
+  "ff4eb4d63f58898c683390770bcc4326" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32c530474acafb48",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165605,
+        "stop" : 1646717165887,
+        "duration" : 282
+      }
+    } ]
+  },
+  "a008fc1d614fbad532d172e2eac05b39" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fae7f889e8d7ef5f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717162435,
+        "stop" : 1646717162472,
+        "duration" : 37
+      }
+    } ]
+  },
+  "5a56c5f570626e1559db9cb19fff837a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d03a200c64cf5638",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717154621,
+        "stop" : 1646717154760,
+        "duration" : 139
+      }
+    } ]
+  },
+  "eb95d08e029effbc6a3a1869c6f3c439" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d1cce87acb0dac0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717155635,
+        "stop" : 1646717155669,
+        "duration" : 34
+      }
+    } ]
+  },
+  "82e0adfaa5d9049adf82c25a9c61f41b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6c9fb6af07cbd14",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string ] bVH~Er/:t5Y=\\1Txw.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159715,
+        "stop" : 1646717159753,
+        "duration" : 38
+      }
+    } ]
+  },
+  "4cae2e547391f448be2b1c27b2c6c14e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "543f533895f37add",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string D_+@+ROFZqY~ESitw89l.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717164424,
+        "stop" : 1646717164452,
+        "duration" : 28
+      }
+    } ]
+  },
+  "b2d56e76582a6a0e0802a78e8ab9b8ab" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2aef6201077760ab",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158175,
+        "stop" : 1646717158225,
+        "duration" : 50
+      }
+    } ]
+  },
+  "4aff6f901d12a0837863babb372b80ba" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d9854d153dc4b89",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string #vaot_mj%QJJqJcU.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717154062,
+        "stop" : 1646717154096,
+        "duration" : 34
+      }
+    } ]
+  },
+  "43d8abf5ab63c1f3d769fc4d5b67e1b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ece510830b7de2d1",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717147294,
+        "stop" : 1646717147422,
+        "duration" : 128
+      }
+    } ]
+  },
+  "6697f47a613636290cd9a078d9625cf5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92d4528a0d9767eb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string I6+d29Z%+\"rt;+$chs:.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717145387,
+        "stop" : 1646717145461,
+        "duration" : 74
+      }
+    } ]
+  },
+  "c853556aaf6874db7d28ea810c5f012b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5508d6a501c90cb3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149891,
+        "stop" : 1646717150144,
+        "duration" : 253
+      }
+    } ]
+  },
+  "44c3d9b90761a6a28cadb4e220f0de8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9357e83b06a5b18",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156908,
+        "stop" : 1646717156990,
+        "duration" : 82
+      }
+    } ]
+  },
+  "436527307d2fad3fff003f8290130b7c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5006edb4ac5a7e83",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151387,
+        "stop" : 1646717151426,
+        "duration" : 39
+      }
+    } ]
+  },
+  "3438cccdd38b8dd5a51212ef6bd6065" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5be4ae154cb9a108",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string null.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717146157,
+        "stop" : 1646717146211,
+        "duration" : 54
+      }
+    } ]
+  },
+  "8d6c1809ad8a421800d4fcb596290ce8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d790f10ff64ed7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717161209,
+        "stop" : 1646717161240,
+        "duration" : 31
+      }
+    } ]
+  },
+  "919de20a282b00037d6c31e9456f8e2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d57219919b4d851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717153351,
+        "stop" : 1646717153409,
+        "duration" : 58
+      }
+    } ]
+  },
+  "2a927abed1c0ab8e122f1e9673d5bec5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e093fb058f39f8e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717156534,
+        "stop" : 1646717156565,
+        "duration" : 31
+      }
+    } ]
+  },
+  "25a6b3cce6fa458b8c7bdee836b4fb0f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59d9e05b5f64a25c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152476,
+        "stop" : 1646717152524,
+        "duration" : 48
+      }
+    } ]
+  },
+  "232a2cbefdbebdbc70edca138ec4da3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b745509e03b2ce00",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148345,
+        "stop" : 1646717148463,
+        "duration" : 118
+      }
+    } ]
+  },
+  "3aa9a3fcb5ca361070ca8094653aa080" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e03bdffa4f8b7466",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717160067,
+        "stop" : 1646717160099,
+        "duration" : 32
+      }
+    } ]
+  },
+  "536b11cb572974ab6951b07f4b614815" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38caa9114ba8bd8c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158309,
+        "stop" : 1646717158574,
+        "duration" : 265
+      }
+    } ]
+  },
+  "de78f87db54cfc9f8dc20140251d093d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5aaa5facbce305c2",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717151265,
+        "stop" : 1646717151307,
+        "duration" : 42
+      }
+    } ]
+  },
+  "ecfa9b08aac6301a5ad49b77aaa9dc48" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b87cf552eb5e9eba",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717151427,
+        "stop" : 1646717151471,
+        "duration" : 44
+      }
+    } ]
+  },
+  "89a0431b5cf463bf7dfbfbd11dfe7d43" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea83c97ab2410f34",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717163414,
+        "stop" : 1646717163466,
+        "duration" : 52
+      }
+    } ]
+  },
+  "73be826ebb06435dae82db84493b429d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6eba9880e80f1e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149551,
+        "stop" : 1646717149592,
+        "duration" : 41
+      }
+    } ]
+  },
+  "9d62187deb2d20d942e50d3d31e2a3c8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81341d73525fd255",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717157162,
+        "stop" : 1646717157215,
+        "duration" : 53
+      }
+    } ]
+  },
+  "e19b12ef64d2a8a27f6258c90057e78b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cde64e5370700627",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159826,
+        "stop" : 1646717159861,
+        "duration" : 35
+      }
+    } ]
+  },
+  "bb1a038af5731d3e85c302fb8c72ec3b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "488823e572ba7b67",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158130,
+        "stop" : 1646717158174,
+        "duration" : 44
+      }
+    } ]
+  },
+  "5d784561fabbb15e4e8cc6ac0927c092" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d968d67571d41e4d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string Q)hYy?Z;2mor<>(.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717162757,
+        "stop" : 1646717162827,
+        "duration" : 70
+      }
+    } ]
+  },
+  "ab443134fda0d479aef5db272c8215ad" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8743b5a9afbaffb3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 3NQuMQNo+Sfqnb+=.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717164453,
+        "stop" : 1646717164486,
+        "duration" : 33
+      }
+    } ]
+  },
+  "63acc2f45e9cd82f6076210bd09b2676" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42979094dcc9db5c",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717160901,
+        "stop" : 1646717161021,
+        "duration" : 120
+      }
+    } ]
+  },
+  "7b9abf83f004d831da6ade8752d9c373" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45d83d755cb3eb92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717160222,
+        "stop" : 1646717160253,
+        "duration" : 31
+      }
+    } ]
+  },
+  "8349214f1c721b8a45b085c6c1c2b21e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f73ad70413b76a72",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717161241,
+        "stop" : 1646717161268,
+        "duration" : 27
+      }
+    } ]
+  },
+  "61fd0298607b2db16a4d1b0e344b199c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d89491902c7512b8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string one space.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717143297,
+        "stop" : 1646717144503,
+        "duration" : 1206
+      }
+    } ]
+  },
+  "e667246de9ea32d67bad9e269b76f927" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f37cbf2a6223cda3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string wiGt3tvgk)BUu.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155530,
+        "stop" : 1646717155567,
+        "duration" : 37
+      }
+    } ]
+  },
+  "b03737abb94c9d6c5edfc98d676f7ca5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d22cded852770db",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717151887,
+        "stop" : 1646717151951,
+        "duration" : 64
+      }
+    } ]
+  },
+  "85aecf14d81f51e9fcd2b4b283072655" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e185de27fb27319d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 5hx$8! *dOJVKU{n@/.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148114,
+        "stop" : 1646717148153,
+        "duration" : 39
+      }
+    } ]
+  },
+  "d433e02fe6da62a7de517a9542b77113" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3167d98b29e3bcae",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165071,
+        "stop" : 1646717165102,
+        "duration" : 31
+      }
+    } ]
+  },
+  "300c4e72923c180fdb31231a45b1d5c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f821c44e1463e9a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string LHQhh}4F3S\"r'E0;djPr.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717157114,
+        "stop" : 1646717157160,
+        "duration" : 46
+      }
+    } ]
+  },
+  "5cbd98988d08c83307ad47fa04143bd3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60eda503ce69b1dc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string xNpfXVKlt}Csd|#d;bp.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717163529,
+        "stop" : 1646717163771,
+        "duration" : 242
+      }
+    } ]
+  },
+  "5c1d222952b297fc9265474d2d61bc58" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86a1881b7ac1ba7e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string o|dcuwdyS4\".\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717158995,
+        "stop" : 1646717159054,
+        "duration" : 59
+      }
+    } ]
+  },
+  "fef664641150a8d719f9dd5b0ab76af4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e9560ce839cbb09",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717150913,
+        "stop" : 1646717150959,
+        "duration" : 46
+      }
+    } ]
+  },
+  "448e6b437e8883b934fe1a88b88ce751" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d1486709b1080e49",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717155826,
+        "stop" : 1646717155887,
+        "duration" : 61
+      }
+    } ]
+  },
+  "998fa729816b65775c7be052735c105d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f3f7a3ea7fb518f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string Q5?+wMx7At.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159863,
+        "stop" : 1646717159988,
+        "duration" : 125
+      }
+    } ]
+  },
+  "c555cef42cb6503ce051ed4a110b632f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22bac2b7ba6a1b1b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string yRUNbuqtZj .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717147037,
+        "stop" : 1646717147074,
+        "duration" : 37
+      }
+    } ]
+  },
+  "2cc120a051ca55928d575d60f8a5dbc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91376b8dfe45b482",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717162158,
+        "stop" : 1646717162209,
+        "duration" : 51
+      }
+    } ]
+  },
+  "598f740006d9af72f93279f330000a7b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd5032f27fbbadab",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717160188,
+        "stop" : 1646717160221,
+        "duration" : 33
+      }
+    } ]
+  },
+  "28e68586a096a20255dda9e597653585" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8380407c5a56b72f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155426,
+        "stop" : 1646717155457,
+        "duration" : 31
+      }
+    } ]
+  },
+  "343f622cfb2d69ed6db18aeb790c8ac6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2819b2783e969697",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string #>i\"rMeWs59NsS@DHD8.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717160361,
+        "stop" : 1646717160405,
+        "duration" : 44
+      }
+    } ]
+  },
+  "ce678d6c00e8ee6d3969c6fecf5b9c7b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "210bc5a33f71a9b5",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717161141,
+        "stop" : 1646717161177,
+        "duration" : 36
+      }
+    } ]
+  },
+  "186917abaf85e9711819b6cbf910880c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3048f23c2f71510e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717161923,
+        "stop" : 1646717161969,
+        "duration" : 46
+      }
+    } ]
+  },
+  "1c15ea11d3feb91c5f73847d8550d6a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43fa890d875692b5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717149752,
+        "stop" : 1646717149815,
+        "duration" : 63
+      }
+    } ]
+  },
+  "c52208e7ee73f2832e74efff3e4f8f9a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d8bce626dac92c3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717164953,
+        "stop" : 1646717164996,
+        "duration" : 43
+      }
+    } ]
+  },
+  "470a10df16112009cc39a8075fa1adbc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "727c26f906123ffe",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717156870,
+        "stop" : 1646717156907,
+        "duration" : 37
+      }
+    } ]
+  },
+  "fccc8019b4a4256ab132045a698a291c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a3328ea0eb1f83a",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717148049,
+        "stop" : 1646717148113,
+        "duration" : 64
+      }
+    } ]
+  },
+  "5b81a2f4ee928b07d30f3363f275dcd9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8aaa6ff2e38e59e2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717153864,
+        "stop" : 1646717153915,
+        "duration" : 51
+      }
+    } ]
+  },
+  "5f341dd4fa33bf649b8d9c988269cd70" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33116e50bf0bb35f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string H];a%}x%:W0k%7xA?\\;V.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165394,
+        "stop" : 1646717165429,
+        "duration" : 35
+      }
+    } ]
+  },
+  "210070815e9387374cea12d7d97ebce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8a3e2adc6b00a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717161708,
+        "stop" : 1646717161740,
+        "duration" : 32
+      }
+    } ]
+  },
+  "8f5376a5dbf58d75069508757f9dd397" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5887f6da9f55829",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717159159,
+        "stop" : 1646717159199,
+        "duration" : 40
+      }
+    } ]
+  },
+  "3cb9334b1d5a1e7c3cf96099bafaa8ea" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82ebd3224d9099d6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155948,
+        "stop" : 1646717155983,
+        "duration" : 35
+      }
+    } ]
+  },
+  "58b43295368acbe86636f79d468dd17c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20b9b70dbf8b3d03",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717147076,
+        "stop" : 1646717147124,
+        "duration" : 48
+      }
+    } ]
+  },
+  "ad51d4e7799a360b0f01cf6d6b5f74f7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "404206911cc76ed1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string $b\"2\"%q{?CE.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717146464,
+        "stop" : 1646717146517,
+        "duration" : 53
+      }
+    } ]
+  },
+  "c0462fb9f0b9410833ad41df3d39db53" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6bc2ef3f28588c6",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717158812,
+        "stop" : 1646717158942,
+        "duration" : 130
+      }
+    } ]
+  },
+  "f6254ba62e97b10da18a4d7c784d6966" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f4bbffb847ba036",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717149115,
+        "stop" : 1646717149152,
+        "duration" : 37
+      }
+    } ]
+  },
+  "3b8ca2d422d03c20d53a3967762c0bd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6afe837764dd56d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717154535,
+        "stop" : 1646717154569,
+        "duration" : 34
+      }
+    } ]
+  },
+  "5e5154a4685855a4c3dc59a858c06d12" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a53a0e51e25db00",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158033,
+        "stop" : 1646717158074,
+        "duration" : 41
+      }
+    } ]
+  },
+  "12fd1699578450ebf0b9d9ae35209c6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bdb44ee763a918b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161269,
+        "stop" : 1646717161294,
+        "duration" : 25
+      }
+    } ]
+  },
+  "24b2faa702c5f3d0cfcdeb81830a7007" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b32fc521a6b4623",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717154956,
+        "stop" : 1646717155006,
+        "duration" : 50
+      }
+    } ]
+  },
+  "c77fa92c95d863b9fdc2f268da0f9295" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf8cd210fddad313",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string q5MrW<p#|`0gZ~7Dw>A<.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717155890,
+        "stop" : 1646717155946,
+        "duration" : 56
+      }
+    } ]
+  },
+  "d4ce9d7c8b594100cd4e516552f200f3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c38af78d63fc7f85",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717161848,
+        "stop" : 1646717161922,
+        "duration" : 74
+      }
+    } ]
+  },
+  "276aec06b59992d104756b2d723073ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f168beb4c0a3129",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717152698,
+        "stop" : 1646717152750,
+        "duration" : 52
+      }
+    } ]
+  },
+  "862a41b0e4c06712a24a60849b4b6692" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25f7ba578c9eb888",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152943,
+        "stop" : 1646717152982,
+        "duration" : 39
+      }
+    } ]
+  },
+  "5131a3db45e396e9048830885051b120" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "841e088fb4cef3a1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string \\0.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717150418,
+        "stop" : 1646717150539,
+        "duration" : 121
+      }
+    } ]
+  },
+  "d6b5f35056db43fe9bb336956be22d6a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac59655a91129cd0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717163990,
+        "stop" : 1646717164024,
+        "duration" : 34
+      }
+    } ]
+  },
+  "92642f18478141547501353b456a3c8a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abcd799ad3def1ca",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717154803,
+        "stop" : 1646717154893,
+        "duration" : 90
+      }
+    } ]
+  },
+  "dff10a5018336820174c2661c6a08b7c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a5e18d606c3355b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717153499,
+        "stop" : 1646717153538,
+        "duration" : 39
+      }
+    } ]
+  },
+  "a33278dc58cd3cad061c283831762371" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc2b22fd43462d3b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 3LW>OTcQU(oq*I7>p9[&.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717165574,
+        "stop" : 1646717165604,
+        "duration" : 30
+      }
+    } ]
+  },
+  "9f747f358365541d9c87338c6bf4bbcd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d59d5854d2430e73",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156992,
+        "stop" : 1646717157041,
+        "duration" : 49
+      }
+    } ]
+  },
+  "2a187a9af21ac9c1a84523f46b1ca6f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50eac5c331a40b6d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717160153,
+        "stop" : 1646717160187,
+        "duration" : 34
+      }
+    } ]
+  },
+  "fc3391c21e86cc120129bb2b3e401c7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7378925edb722a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717147768,
+        "stop" : 1646717148048,
+        "duration" : 280
+      }
+    } ]
+  },
+  "94ed932c4412728b1c8f6df983315a8e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4f62b7f6725b291",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string LL%Z*5mrE0['83j.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717163327,
+        "stop" : 1646717163369,
+        "duration" : 42
+      }
+    } ]
+  },
+  "3cff30aca36425d196e708c0b56eaa9f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e11d0890d68bf3b0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717147423,
+        "stop" : 1646717147491,
+        "duration" : 68
+      }
+    } ]
+  },
+  "382407e6712a2dc899ff9da528611e22" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ac604fc7956a3f0",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717153826,
+        "stop" : 1646717153863,
+        "duration" : 37
+      }
+    } ]
+  },
+  "9467ad50c13ae81387be5e9bb95c23b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e56890494fe0aa4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717161412,
+        "stop" : 1646717161677,
+        "duration" : 265
+      }
+    } ]
+  },
+  "661a8b2a805ae9584d57cc6f87cd8b6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e43a2d14629df6df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717159128,
+        "stop" : 1646717159157,
+        "duration" : 29
+      }
+    } ]
+  },
+  "b817e08e52929b28d1e1d8367e71945e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e983e1ff17b5e30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717163854,
+        "stop" : 1646717163888,
+        "duration" : 34
+      }
+    } ]
+  },
+  "58c6baec325653bd678e028c8452f5dd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccb221425ae5da74",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148291,
+        "stop" : 1646717148343,
+        "duration" : 52
+      }
+    } ]
+  },
+  "5b70fc0965017eb287d31982b32be1bf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3629fd58d5347bf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159200,
+        "stop" : 1646717159269,
+        "duration" : 69
+      }
+    } ]
+  },
+  "9114b13438e1de3701795d1a42206e4c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57d52834bfd8d75c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161677,
+        "stop" : 1646717161707,
+        "duration" : 30
+      }
+    } ]
+  },
+  "9488ab8a0a6cc41125b25719c65f5904" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1002926f50cba37",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717160862,
+        "stop" : 1646717160897,
+        "duration" : 35
+      }
+    } ]
+  },
+  "e64c2fb8dbe8d0e63d52c3bc1b2edbb6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1807030d36d48cbb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717152407,
+        "stop" : 1646717152474,
+        "duration" : 67
+      }
+    } ]
+  },
+  "84972fcd583d125bfb098f043c119af4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d08a5dab941bbea8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717157928,
+        "stop" : 1646717157969,
+        "duration" : 41
+      }
+    } ]
+  },
+  "e2a2f30bd52644dad9be3331f910d388" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85cb19bde5933d42",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717158728,
+        "stop" : 1646717158765,
+        "duration" : 37
+      }
+    } ]
+  },
+  "7e2f6be60e1bf326793821cafbab713a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83a92c7862d3564c",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717155984,
+        "stop" : 1646717156022,
+        "duration" : 38
+      }
+    } ]
+  },
+  "6025390d2b002232242078f754a3d5f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4e251faba96337e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717149154,
+        "stop" : 1646717149214,
+        "duration" : 60
+      }
+    } ]
+  },
+  "73244e0baf0ca91fdc50d10c6902e400" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8ddac019e815fc5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717152332,
+        "stop" : 1646717152370,
+        "duration" : 38
+      }
+    } ]
+  },
+  "be367ff3b25eaebfdc1c49c6bc35a4c4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdaf95656d351e5c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717156647,
+        "stop" : 1646717156682,
+        "duration" : 35
+      }
+    } ]
+  },
+  "2e5c8393d7432c5c26f7d9e286d9615d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9c508be9369129f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717161970,
+        "stop" : 1646717162112,
+        "duration" : 142
+      }
+    } ]
+  },
+  "f5244199f91fdc5bf08ba8b546d8bda3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fa29797fc8b1ff7",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717147550,
+        "stop" : 1646717147608,
+        "duration" : 58
+      }
+    } ]
+  },
+  "783ade49c6454b3a9ca0e8a6589361a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd5e116271d93492",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string wx{FQgA;K~v7z%yCo)i.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717163951,
+        "stop" : 1646717163989,
+        "duration" : 38
+      }
+    } ]
+  },
+  "79ab62ed70424aba4f710a396d13b5e3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79b2e36623e1e5a5",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717165999,
+        "stop" : 1646717166039,
+        "duration" : 40
+      }
+    } ]
+  },
+  "affbc2fd56ef1b3a3dacd41701a5c45f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6369897bcf2d3db",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string null.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717153997,
+        "stop" : 1646717154061,
+        "duration" : 64
+      }
+    } ]
+  },
+  "3d407aef838dff559788e4140bd16221" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ebc09ea5d643f6",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717163773,
+        "stop" : 1646717163809,
+        "duration" : 36
+      }
+    } ]
+  },
+  "1b609d8a9dbf4fd523ad4f2aad4811c3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dc6edb5b4c0c83c",
+      "status" : "failed",
+      "statusDetails" : "Status code 5XX.",
+      "time" : {
+        "start" : 1646717145598,
+        "stop" : 1646717145691,
+        "duration" : 93
+      }
+    } ]
+  },
+  "e76cc43e053e91139b57b7219522866d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "591ae77a29157a44",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717148786,
+        "stop" : 1646717148851,
+        "duration" : 65
+      }
+    } ]
+  },
+  "dc8b524f3814fac6e247d9a4b4d18e92" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0a84eccbd595554",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717160254,
+        "stop" : 1646717160301,
+        "duration" : 47
+      }
+    } ]
+  },
+  "b8df4839f26d548044aeade62e4fa7e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d80e3d771242833f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646717159319,
+        "stop" : 1646717159611,
+        "duration" : 292
+      }
+    } ]
+  },
+  "2b6093b5741dc10c9b5ad89b699b1794" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd23b17d5f08c78a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for endDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717147697,
+        "stop" : 1646717147767,
+        "duration" : 70
+      }
+    } ]
+  },
+  "d99e6d941bbb077d694c62570f798a8a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5e28c3c381c57dc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string null.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717158943,
+        "stop" : 1646717158994,
+        "duration" : 51
+      }
+    } ]
+  },
+  "2f446201dbccae6efcfa31484fa23ee4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60f6334b9668d5f4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string .\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717164065,
+        "stop" : 1646717164188,
+        "duration" : 123
+      }
+    } ]
+  },
+  "60c25f39c9a4d7da3a330e26f21ddb68" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be87404878ee5632",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Object instance has properties which are not allowed by the schema: [\"error\";\"exception\";\"path\";\"status\";\"timestamp\"]",
+      "time" : {
+        "start" : 1646717145059,
+        "stop" : 1646717145132,
+        "duration" : 73
+      }
+    } ]
+  },
+  "b6bf6735431c8222ae64f212746e2a7f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b8b0cbf35f93c76",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717148627,
+        "stop" : 1646717148665,
+        "duration" : 38
+      }
+    } ]
+  },
+  "4840db1bb0e9fde41f65dfb9c09733b1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70d6da879d299846",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Couldnt': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Couldnt parse date string 1P^-+(XW#`V.\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717157071,
+        "stop" : 1646717157111,
+        "duration" : 40
+      }
+    } ]
+  },
+  "918e871a24c7ede1874df42b56d38f23" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f7e9ef53584c4f3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Unable to parse JSON - Unrecognized token 'Invalid': was expecting (JSON String; Number; Array; Object or token 'null'; 'true' or 'false')\n at [Source: (byte[])\"Invalid date format for stardDate\"; line: 1; column: 9].",
+      "time" : {
+        "start" : 1646717159686,
+        "stop" : 1646717159714,
+        "duration" : 28
+      }
+    } ]
+  }
+}

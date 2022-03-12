@@ -1,0 +1,55 @@
+[ {
+  "values" : [ "Catwatch" ],
+  "name" : "api"
+}, {
+  "values" : [ "FT" ],
+  "name" : "generator"
+}, {
+  "values" : [ "50" ],
+  "name" : "testsperoperation"
+}, {
+  "values" : [ "src/test/resources/Catwatch/openAPI.yaml" ],
+  "name" : "oas.path"
+}, {
+  "values" : [ "src/test/resources/Catwatch/testConf.yaml" ],
+  "name" : "conf.path"
+}, {
+  "values" : [ "src/generation/java/Catwatch" ],
+  "name" : "test.target.dir"
+}, {
+  "values" : [ "Catwatch" ],
+  "name" : "test.target.package"
+}, {
+  "values" : [ "Catwatch" ],
+  "name" : "experiment.name"
+}, {
+  "values" : [ "CatwatchTest" ],
+  "name" : "testclass.name"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.input"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.output"
+}, {
+  "values" : [ "true" ],
+  "name" : "stats.csv"
+}, {
+  "values" : [ "-1" ],
+  "name" : "numtotaltestcases"
+}, {
+  "values" : [ "3600" ],
+  "name" : "delay"
+}, {
+  "values" : [ "0.5" ],
+  "name" : "faulty.ratio"
+}, {
+  "values" : [ "0" ],
+  "name" : "faulty.dependency.ratio"
+}, {
+  "values" : [ "100" ],
+  "name" : "reloadinputdataevery"
+}, {
+  "values" : [ "1000" ],
+  "name" : "inputdatamaxvalues"
+} ]

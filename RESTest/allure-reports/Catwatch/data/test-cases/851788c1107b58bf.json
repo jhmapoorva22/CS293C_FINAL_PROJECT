@@ -1,0 +1,97 @@
+{
+  "uid" : "851788c1107b58bf",
+  "name" : "test_qhnu1mvrp5wx_SETOPERATIONID",
+  "fullName" : "Catwatch.CatwatchTest_1646717137412.test_qhnu1mvrp5wx_SETOPERATIONID",
+  "historyId" : "bb627bb7cac70639cef4d47ed533aa",
+  "time" : {
+    "start" : 1646717155101,
+    "stop" : 1646717155139,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "41701ddb3d797998",
+      "name" : "Request",
+      "source" : "41701ddb3d797998.html",
+      "type" : "text/html",
+      "size" : 365
+    }, {
+      "uid" : "4dda408f27d9dc07",
+      "name" : "HTTP/1.1 200 ",
+      "source" : "4dda408f27d9dc07.html",
+      "type" : "text/html",
+      "size" : 898
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Catwatch"
+  }, {
+    "name" : "testClass",
+    "value" : "Catwatch.CatwatchTest_1646717137412"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_qhnu1mvrp5wx_SETOPERATIONID"
+  }, {
+    "name" : "suite",
+    "value" : "Catwatch.CatwatchTest_1646717137412"
+  }, {
+    "name" : "host",
+    "value" : "Avisheks-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "27225@Avisheks-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6b32d0537ae23f72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646717155101,
+          "stop" : 1646717155139,
+          "duration" : 38
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "851788c1107b58bf.json",
+  "parameterValues" : [ ]
+}

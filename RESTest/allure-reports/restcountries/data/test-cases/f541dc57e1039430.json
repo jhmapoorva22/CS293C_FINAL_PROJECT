@@ -1,0 +1,78 @@
+{
+  "uid" : "f541dc57e1039430",
+  "name" : "test_rhje5g12nynp_v2Name",
+  "fullName" : "restcountries.RestcountriesTest_1646969940513.test_rhje5g12nynp_v2Name",
+  "historyId" : "80ecb5bf6844b1ac0132cc97e683cd72",
+  "time" : {
+    "start" : 1646970343173,
+    "stop" : 1646970343422,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a8959c4228279e37",
+      "name" : "Request",
+      "source" : "a8959c4228279e37.html",
+      "type" : "text/html",
+      "size" : 315
+    }, {
+      "uid" : "c2d8a280ef80427b",
+      "name" : "HTTP/1.1 404 Not Found",
+      "source" : "c2d8a280ef80427b.html",
+      "type" : "text/html",
+      "size" : 505
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "restcountries"
+  }, {
+    "name" : "testClass",
+    "value" : "restcountries.RestcountriesTest_1646969940513"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_rhje5g12nynp_v2Name"
+  }, {
+    "name" : "suite",
+    "value" : "restcountries.RestcountriesTest_1646969940513"
+  }, {
+    "name" : "host",
+    "value" : "ResNet-176-102.resnet.ucsb.edu"
+  }, {
+    "name" : "thread",
+    "value" : "55707@ResNet-176-102.resnet.ucsb.edu.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f541dc57e1039430.json",
+  "parameterValues" : [ ]
+}

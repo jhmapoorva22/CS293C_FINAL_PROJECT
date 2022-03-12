@@ -1,0 +1,12 @@
+[ {
+  "data" : {
+    "SEVERITY 1: Disconformity with OAS" : 395,
+    "SEVERITY 2: Status 5XX" : 81,
+    "Broken tests" : 63
+  }
+}, {
+  "data" : {
+    "SEVERITY 1: Disconformity with OAS" : 216,
+    "SEVERITY 2: Status 5XX" : 51
+  }
+} ]

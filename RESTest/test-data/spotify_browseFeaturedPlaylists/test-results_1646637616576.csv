@@ -1,0 +1,1984 @@
+testResultId,statusCode,responseBody,outputContentType,passed,failReason
+test_1h7lx29q0bxb9_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1h7qz56a10r3s_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1h7u9mhorg4mc_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hrawbs5yh10i_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hre7ieetqeya_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid timestamp""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hrghd16m7l84_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hrj8qry2uw6d_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hux7zlr2yiie_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hv0fr2v7e62e_browseFeaturedPlaylists,200,"{
+  ""message"" : ""Editor's picks"",
+  ""playlists"" : {
+    ""href"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A21&offset=0&limit=20"",
+    ""items"" : [ {
+      ""collaborative"" : false,
+      ""description"" : ""Lekker rustig aan doen op maandag met deze zachte pop liedjes."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI"",
+      ""id"" : ""37i9dQZF1DWYlXpl3xXzDI"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bc1a3f1466530160932e6fbb"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Easy On Monday"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTYzNzIyNDE1NywwMDAwMDAwOTAwMDAwMTdkMzIyYTEwZDMwMDAwMDE3MGM0YmM4M2Jh"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWYlXpl3xXzDI""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Enjoy a break with some relaxing soft songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcxacyAXkQDu""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu"",
+      ""id"" : ""37i9dQZF1DXcxacyAXkQDu"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000032882fd7da8b1d327d94d98a4"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Cozy Blend"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu/tracks"",
+        ""total"" : 250
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcxacyAXkQDu""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Dove Cameron is on top of the Hottest 50!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M"",
+      ""id"" : ""37i9dQZF1DXcBWIGoYBM5M"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000035c213f4eb727e8c81bbe653e"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Today's Top Hits"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjM3MDAwMCwwMDAwMDUyNzAwMDAwMTdmNTM0YzhkM2MwMDAwMDE3ZjUxZDA1ZGVk"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks"",
+        ""total"" : 50
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcBWIGoYBM5M""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""The great masterpieces of the genre."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone"",
+      ""id"" : ""37i9dQZF1DX6xOPeSOGone"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000039bb82204e8728c7bf7d27690"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Soft Rock"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks"",
+        ""total"" : 150
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX6xOPeSOGone""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""No need to stress out. Stay relaxed with these easy, upbeat songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar"",
+      ""id"" : ""37i9dQZF1DWT7XSlwvR1ar"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000031a9c145d6c6a8bbe4844e28c"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Totally Stress Free"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU5MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWT7XSlwvR1ar""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Calm your mind with gentle piano and ambient."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP"",
+      ""id"" : ""37i9dQZF1DWXe9gFZP0gtP"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003ec9d60059aa215a7ba364695"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Stress Relief"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjQwNTY3NywwMDAwMDA3ZjAwMDAwMTdmNTU2Y2YzMjgwMDAwMDE2ZTgzM2QwYzg5"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP/tracks"",
+        ""total"" : 242
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWXe9gFZP0gtP""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Make your shower more uplifting by singing along to these hits."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ"",
+      ""id"" : ""37i9dQZF1DWSqmBTGDYngZ"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000324893f0507c0fe2855565438"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Songs to Sing in the Shower"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU3MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ/tracks"",
+        ""total"" : 200
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWSqmBTGDYngZ""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Get happy with today's dose of feel-good songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0"",
+      ""id"" : ""37i9dQZF1DX3rxVfibe1L0"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Mood Booster"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks"",
+        ""total"" : 76
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3rxVfibe1L0""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Feel great with these timelessly fun songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75"",
+      ""id"" : ""37i9dQZF1DX7KNKjOK0o75"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003e649da22aa371c86c801603f"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Have a Great Day!"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75/tracks"",
+        ""total"" : 80
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX7KNKjOK0o75""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Start your morning right with this collection of funky, soulful, jazzy tunes!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79"",
+      ""id"" : ""37i9dQZF1DX3ohNxI5tB79"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000301a0c5ad76578be9a0f9feb7"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Morning Rhythm"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NTU0Mzk3OCwwMDAwMDA1ZjAwMDAwMTdmMjIxMDc2NzEwMDAwMDE2ZDE1MmE3ZDIy"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79/tracks"",
+        ""total"" : 91
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3ohNxI5tB79""
+    } ],
+    ""limit"" : 20,
+    ""next"" : null,
+    ""offset"" : 0,
+    ""previous"" : null,
+    ""total"" : 10
+  }
+}",application/json; charset=utf-8,false,"OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [""description"";""primary_color""] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [""display_name""] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [""boolean""]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [""string""]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [""string""])"
+test_1hv0gj4p5il9t_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad limit, limit must be larger than 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1hv2rlzq81s8i_browseFeaturedPlaylists,200,"{
+  ""message"" : ""Escolhas do editor"",
+  ""playlists"" : {
+    ""href"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A21&offset=0&limit=20"",
+    ""items"" : [ {
+      ""collaborative"" : false,
+      ""description"" : ""Lekker rustig aan doen op maandag met deze zachte pop liedjes."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI"",
+      ""id"" : ""37i9dQZF1DWYlXpl3xXzDI"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bc1a3f1466530160932e6fbb"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Easy On Monday"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTYzNzIyNDE1NywwMDAwMDAwOTAwMDAwMTdkMzIyYTEwZDMwMDAwMDE3MGM0YmM4M2Jh"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWYlXpl3xXzDI""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Enjoy a break with some relaxing soft songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcxacyAXkQDu""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu"",
+      ""id"" : ""37i9dQZF1DXcxacyAXkQDu"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000032882fd7da8b1d327d94d98a4"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Cozy Blend"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu/tracks"",
+        ""total"" : 250
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcxacyAXkQDu""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Dove Cameron is on top of the Hottest 50!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M"",
+      ""id"" : ""37i9dQZF1DXcBWIGoYBM5M"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000035c213f4eb727e8c81bbe653e"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Today's Top Hits"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjM3MDAwMCwwMDAwMDUyNzAwMDAwMTdmNTM0YzhkM2MwMDAwMDE3ZjUxZDA1ZGVk"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks"",
+        ""total"" : 50
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcBWIGoYBM5M""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""The great masterpieces of the genre."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone"",
+      ""id"" : ""37i9dQZF1DX6xOPeSOGone"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000039bb82204e8728c7bf7d27690"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Soft Rock"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks"",
+        ""total"" : 150
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX6xOPeSOGone""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""No need to stress out. Stay relaxed with these easy, upbeat songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar"",
+      ""id"" : ""37i9dQZF1DWT7XSlwvR1ar"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000031a9c145d6c6a8bbe4844e28c"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Totally Stress Free"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU5MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWT7XSlwvR1ar""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Calm your mind with gentle piano and ambient."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP"",
+      ""id"" : ""37i9dQZF1DWXe9gFZP0gtP"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003ec9d60059aa215a7ba364695"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Stress Relief"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjQwNTY3NywwMDAwMDA3ZjAwMDAwMTdmNTU2Y2YzMjgwMDAwMDE2ZTgzM2QwYzg5"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP/tracks"",
+        ""total"" : 242
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWXe9gFZP0gtP""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Make your shower more uplifting by singing along to these hits."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ"",
+      ""id"" : ""37i9dQZF1DWSqmBTGDYngZ"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000324893f0507c0fe2855565438"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Songs to Sing in the Shower"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU3MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ/tracks"",
+        ""total"" : 200
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWSqmBTGDYngZ""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Get happy with today's dose of feel-good songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0"",
+      ""id"" : ""37i9dQZF1DX3rxVfibe1L0"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Mood Booster"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks"",
+        ""total"" : 76
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3rxVfibe1L0""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Feel great with these timelessly fun songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75"",
+      ""id"" : ""37i9dQZF1DX7KNKjOK0o75"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003e649da22aa371c86c801603f"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Have a Great Day!"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75/tracks"",
+        ""total"" : 80
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX7KNKjOK0o75""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Start your morning right with this collection of funky, soulful, jazzy tunes!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79"",
+      ""id"" : ""37i9dQZF1DX3ohNxI5tB79"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000301a0c5ad76578be9a0f9feb7"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Morning Rhythm"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NTU0Mzk3OCwwMDAwMDA1ZjAwMDAwMTdmMjIxMDc2NzEwMDAwMDE2ZDE1MmE3ZDIy"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79/tracks"",
+        ""total"" : 91
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3ohNxI5tB79""
+    } ],
+    ""limit"" : 20,
+    ""next"" : null,
+    ""offset"" : 0,
+    ""previous"" : null,
+    ""total"" : 10
+  }
+}",application/json; charset=utf-8,false,"OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [""description"";""primary_color""] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [""display_name""] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [""boolean""]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [""string""]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [""string""])"
+test_1iauwmabr4api_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iay698bdbkft_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ib0y0ualc8q9_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ibbi3lw2ub8m_browseFeaturedPlaylists,200,"{
+  ""message"" : ""Editor's picks"",
+  ""playlists"" : {
+    ""href"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A22&offset=0&limit=20"",
+    ""items"" : [ {
+      ""collaborative"" : false,
+      ""description"" : ""Lekker rustig aan doen op maandag met deze zachte pop liedjes."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI"",
+      ""id"" : ""37i9dQZF1DWYlXpl3xXzDI"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bc1a3f1466530160932e6fbb"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Easy On Monday"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTYzNzIyNDE1NywwMDAwMDAwOTAwMDAwMTdkMzIyYTEwZDMwMDAwMDE3MGM0YmM4M2Jh"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWYlXpl3xXzDI""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Enjoy a break with some relaxing soft songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcxacyAXkQDu""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu"",
+      ""id"" : ""37i9dQZF1DXcxacyAXkQDu"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000032882fd7da8b1d327d94d98a4"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Cozy Blend"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu/tracks"",
+        ""total"" : 250
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcxacyAXkQDu""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Dove Cameron is on top of the Hottest 50!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M"",
+      ""id"" : ""37i9dQZF1DXcBWIGoYBM5M"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000035c213f4eb727e8c81bbe653e"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Today's Top Hits"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjM3MDAwMCwwMDAwMDUyNzAwMDAwMTdmNTM0YzhkM2MwMDAwMDE3ZjUxZDA1ZGVk"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks"",
+        ""total"" : 50
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcBWIGoYBM5M""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""The great masterpieces of the genre."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone"",
+      ""id"" : ""37i9dQZF1DX6xOPeSOGone"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000039bb82204e8728c7bf7d27690"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Soft Rock"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks"",
+        ""total"" : 150
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX6xOPeSOGone""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""No need to stress out. Stay relaxed with these easy, upbeat songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar"",
+      ""id"" : ""37i9dQZF1DWT7XSlwvR1ar"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000031a9c145d6c6a8bbe4844e28c"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Totally Stress Free"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU5MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWT7XSlwvR1ar""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Calm your mind with gentle piano and ambient."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP"",
+      ""id"" : ""37i9dQZF1DWXe9gFZP0gtP"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003ec9d60059aa215a7ba364695"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Stress Relief"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjQwNTY3NywwMDAwMDA3ZjAwMDAwMTdmNTU2Y2YzMjgwMDAwMDE2ZTgzM2QwYzg5"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP/tracks"",
+        ""total"" : 242
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWXe9gFZP0gtP""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Make your shower more uplifting by singing along to these hits."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ"",
+      ""id"" : ""37i9dQZF1DWSqmBTGDYngZ"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000324893f0507c0fe2855565438"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Songs to Sing in the Shower"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU3MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ/tracks"",
+        ""total"" : 200
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWSqmBTGDYngZ""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Get happy with today's dose of feel-good songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0"",
+      ""id"" : ""37i9dQZF1DX3rxVfibe1L0"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Mood Booster"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks"",
+        ""total"" : 76
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3rxVfibe1L0""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Feel great with these timelessly fun songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75"",
+      ""id"" : ""37i9dQZF1DX7KNKjOK0o75"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003e649da22aa371c86c801603f"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Have a Great Day!"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75/tracks"",
+        ""total"" : 80
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX7KNKjOK0o75""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Start your morning right with this collection of funky, soulful, jazzy tunes!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79"",
+      ""id"" : ""37i9dQZF1DX3ohNxI5tB79"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000301a0c5ad76578be9a0f9feb7"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Morning Rhythm"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NTU0Mzk3OCwwMDAwMDA1ZjAwMDAwMTdmMjIxMDc2NzEwMDAwMDE2ZDE1MmE3ZDIy"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79/tracks"",
+        ""total"" : 91
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3ohNxI5tB79""
+    } ],
+    ""limit"" : 20,
+    ""next"" : null,
+    ""offset"" : 0,
+    ""previous"" : null,
+    ""total"" : 10
+  }
+}",application/json; charset=utf-8,false,"OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [""description"";""primary_color""] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [""display_name""] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [""boolean""]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [""string""]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [""string""])"
+test_1ibebtnlmfs52_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ibec4q6f4ncj_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ibetagrhkxgl_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ievhnokbttmb_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iupy251hy2b9_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iuy7fqjpjkty_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iv1ip7ra2pti_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid timestamp""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iv9aje3m85yp_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iv9dks276p0x_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad offset, offset must be greater than or equal to 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1iykj6kn949yd_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jecpqq73dwkz_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jefxhzf1ovuf_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jel1do4rkxfd_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jenro651qxx2_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jew3bfw4c7s2_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jeyub3l73dwx_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1ji78inng7xpf_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jia0m3gl1ht0_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jicuc18m1mxt_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jy5h9izj4v1u_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jy7p5rxzjtk1_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jyaja87c0iet_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1jyjal33ua2pf_browseFeaturedPlaylists,200,"{
+  ""message"" : ""Selección del editor"",
+  ""playlists"" : {
+    ""href"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A25&offset=0&limit=20"",
+    ""items"" : [ {
+      ""collaborative"" : false,
+      ""description"" : ""Lekker rustig aan doen op maandag met deze zachte pop liedjes."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI"",
+      ""id"" : ""37i9dQZF1DWYlXpl3xXzDI"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bc1a3f1466530160932e6fbb"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Easy On Monday"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTYzNzIyNDE1NywwMDAwMDAwOTAwMDAwMTdkMzIyYTEwZDMwMDAwMDE3MGM0YmM4M2Jh"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWYlXpl3xXzDI""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Enjoy a break with some relaxing soft songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcxacyAXkQDu""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu"",
+      ""id"" : ""37i9dQZF1DXcxacyAXkQDu"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000032882fd7da8b1d327d94d98a4"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Cozy Blend"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcxacyAXkQDu/tracks"",
+        ""total"" : 250
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcxacyAXkQDu""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Dove Cameron is on top of the Hottest 50!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M"",
+      ""id"" : ""37i9dQZF1DXcBWIGoYBM5M"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000035c213f4eb727e8c81bbe653e"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Today's Top Hits"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjM3MDAwMCwwMDAwMDUyNzAwMDAwMTdmNTM0YzhkM2MwMDAwMDE3ZjUxZDA1ZGVk"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks"",
+        ""total"" : 50
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DXcBWIGoYBM5M""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""The great masterpieces of the genre."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone"",
+      ""id"" : ""37i9dQZF1DX6xOPeSOGone"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000039bb82204e8728c7bf7d27690"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Soft Rock"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyNSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks"",
+        ""total"" : 150
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX6xOPeSOGone""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""No need to stress out. Stay relaxed with these easy, upbeat songs."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar"",
+      ""id"" : ""37i9dQZF1DWT7XSlwvR1ar"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f000000031a9c145d6c6a8bbe4844e28c"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Totally Stress Free"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU5MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWT7XSlwvR1ar/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWT7XSlwvR1ar""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Calm your mind with gentle piano and ambient."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP"",
+      ""id"" : ""37i9dQZF1DWXe9gFZP0gtP"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003ec9d60059aa215a7ba364695"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Stress Relief"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjQwNTY3NywwMDAwMDA3ZjAwMDAwMTdmNTU2Y2YzMjgwMDAwMDE2ZTgzM2QwYzg5"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWXe9gFZP0gtP/tracks"",
+        ""total"" : 242
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWXe9gFZP0gtP""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Make your shower more uplifting by singing along to these hits."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ"",
+      ""id"" : ""37i9dQZF1DWSqmBTGDYngZ"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000324893f0507c0fe2855565438"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Songs to Sing in the Shower"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU3MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ/tracks"",
+        ""total"" : 200
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWSqmBTGDYngZ""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Get happy with today's dose of feel-good songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0"",
+      ""id"" : ""37i9dQZF1DX3rxVfibe1L0"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Mood Booster"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzU4OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks"",
+        ""total"" : 76
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3rxVfibe1L0""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Feel great with these timelessly fun songs!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75"",
+      ""id"" : ""37i9dQZF1DX7KNKjOK0o75"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003e649da22aa371c86c801603f"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Have a Great Day!"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NjYzNzYyNSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75/tracks"",
+        ""total"" : 80
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX7KNKjOK0o75""
+    }, {
+      ""collaborative"" : false,
+      ""description"" : ""Start your morning right with this collection of funky, soulful, jazzy tunes!"",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79"",
+      ""id"" : ""37i9dQZF1DX3ohNxI5tB79"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f0000000301a0c5ad76578be9a0f9feb7"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Morning Rhythm"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTY0NTU0Mzk3OCwwMDAwMDA1ZjAwMDAwMTdmMjIxMDc2NzEwMDAwMDE2ZDE1MmE3ZDIy"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DX3ohNxI5tB79/tracks"",
+        ""total"" : 91
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DX3ohNxI5tB79""
+    } ],
+    ""limit"" : 20,
+    ""next"" : null,
+    ""offset"" : 0,
+    ""previous"" : null,
+    ""total"" : 10
+  }
+}",application/json; charset=utf-8,false,"OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [""description"";""primary_color""] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [""display_name""] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [""boolean""]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [""string""]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [""string""])"
+test_1k1wrl3iyf7zr_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1k1zjak7fke9h_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_1k200weut2vjn_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_qdya5ksntwmc_browseFeaturedPlaylists,200,"{
+  ""message"" : ""Editor's picks"",
+  ""playlists"" : {
+    ""href"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A26&offset=0&limit=1"",
+    ""items"" : [ {
+      ""collaborative"" : false,
+      ""description"" : ""Lekker rustig aan doen op maandag met deze zachte pop liedjes."",
+      ""external_urls"" : {
+        ""spotify"" : ""https://open.spotify.com/playlist/37i9dQZF1DWYlXpl3xXzDI""
+      },
+      ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI"",
+      ""id"" : ""37i9dQZF1DWYlXpl3xXzDI"",
+      ""images"" : [ {
+        ""height"" : null,
+        ""url"" : ""https://i.scdn.co/image/ab67706f00000003bc1a3f1466530160932e6fbb"",
+        ""width"" : null
+      } ],
+      ""name"" : ""Easy On Monday"",
+      ""owner"" : {
+        ""display_name"" : ""Spotify"",
+        ""external_urls"" : {
+          ""spotify"" : ""https://open.spotify.com/user/spotify""
+        },
+        ""href"" : ""https://api.spotify.com/v1/users/spotify"",
+        ""id"" : ""spotify"",
+        ""type"" : ""user"",
+        ""uri"" : ""spotify:user:spotify""
+      },
+      ""primary_color"" : null,
+      ""public"" : null,
+      ""snapshot_id"" : ""MTYzNzIyNDE1NywwMDAwMDAwOTAwMDAwMTdkMzIyYTEwZDMwMDAwMDE3MGM0YmM4M2Jh"",
+      ""tracks"" : {
+        ""href"" : ""https://api.spotify.com/v1/playlists/37i9dQZF1DWYlXpl3xXzDI/tracks"",
+        ""total"" : 100
+      },
+      ""type"" : ""playlist"",
+      ""uri"" : ""spotify:playlist:37i9dQZF1DWYlXpl3xXzDI""
+    } ],
+    ""limit"" : 1,
+    ""next"" : ""https://api.spotify.com/v1/browse/featured-playlists?timestamp=2022-03-07T07%3A20%3A26&offset=1&limit=1"",
+    ""offset"" : 0,
+    ""previous"" : null,
+    ""total"" : 10
+  }
+}",application/json; charset=utf-8,false,"OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [""description"";""primary_color""] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [""integer""]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [""display_name""] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [""boolean""]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [""string""])"
+test_qe3vbxnqk3tv_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_qe9v8vkzapuq_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid timestamp""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_qhntnk6ffdit_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_r17sdm25mpgj_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid timestamp""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_r1dcbgt6y3p4_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_r1idk85dztwz_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rh4z0jm4nbjq_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad offset, offset must be greater than or equal to 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rh50mywsn4tz_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rhjcz37sacdx_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rhr6fzye2mw5_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rhtyj69wk6lg_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_rkxcaqwl1wzc_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad offset, offset must be greater than or equal to 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_s0ugwtsfqpmh_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_s4ruypk4pa2f_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad offset, offset must be greater than or equal to 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_s50ni86sf4mt_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_skkhyzjh3per_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_sknaixyxo21w_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_sksc56neibmu_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad limit, limit must be larger than 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_skxuge6rdc2r_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_skxugi3ff22a_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_sl0n0g5axk6d_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_t49h5qz26j4y_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_t4ctws8bdgz7_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad limit, limit must be larger than 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_t8f7972n84dt_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_tnzijgzea4pt_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_to2ampa8hu7l_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_to2b0wnfv7zp_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_toa2h5htn6n6_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_tocwnmdpv703_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_tog7276si0kh_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_toiwyjtpmr74_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_tolonuul4pbp_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_trrdg1mcby9h_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_trtl9ibjgn6s_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_trwf2e9nhq3o_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_ts4p7oju6wxh_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_u7ohq8r77zaa_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_u82exo8tpet0_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_u82xkoo7jt4p_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_u87w2qh8sbxe_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_ubp6npsy6erd_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad limit, limit must be larger than 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_ubp71r92ttma_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_ubrds6s40jsk_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_ure1yhpgoxme_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_urgu23qyhiyf_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_urhcrpbic8rm_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_urjjhn25oa46_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_urxhhl7fxbn5_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid limit""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_us08uzs06gc1_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_uvhfh1ci2nab_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vb3jsfgdjp6g_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbf4f353sl7l_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbk827mikunt_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Bad offset, offset must be greater than or equal to 0""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbnhat12xq2f_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid country code""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbnhp4112aex_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbpp72bstant_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vbprjambayic_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid offset""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
+test_vf46rjsauxra_browseFeaturedPlaylists,400,"{
+  ""error"" : {
+    ""status"" : 400,
+    ""message"" : ""Invalid timestamp""
+  }
+}",application/json; charset=utf-8,false,OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.
