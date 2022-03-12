@@ -1,0 +1,2002 @@
+{
+  "3663d0f67b3394e2774e326e727040a5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27a290b91d96d8cc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631947,
+        "stop" : 1646637632322,
+        "duration" : 375
+      }
+    } ]
+  },
+  "2b8a1723e13e5f4e8f71a9175dfefa6c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b67be87e2e3c53a2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637619040,
+        "stop" : 1646637620294,
+        "duration" : 1254
+      }
+    } ]
+  },
+  "f9e07a8835c50b11cd35dc95daab59d0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4f7463958f0e297",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624190,
+        "stop" : 1646637624314,
+        "duration" : 124
+      }
+    } ]
+  },
+  "def8eb49ab38ada09d0f4b2accdaf015" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4695932e0c6e89b0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628627,
+        "stop" : 1646637628743,
+        "duration" : 116
+      }
+    } ]
+  },
+  "67e0ef56afd3dd19174699c2747d7912" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c82991e4adf5df22",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629467,
+        "stop" : 1646637629565,
+        "duration" : 98
+      }
+    } ]
+  },
+  "9328a1837d3ba2136d21eb37b1c2ddf6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2dccc2859f1c52b3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630801,
+        "stop" : 1646637630926,
+        "duration" : 125
+      }
+    } ]
+  },
+  "9780ea6a20d40f92862209b72c7b7e69" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a402aef1c42fd095",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624434,
+        "stop" : 1646637624536,
+        "duration" : 102
+      }
+    } ]
+  },
+  "526591758b070a7738ca3f7bf03b019" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e298044e5d46015",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622129,
+        "stop" : 1646637622268,
+        "duration" : 139
+      }
+    } ]
+  },
+  "99879e7141e3a78d857c6020df5ff15d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11439fa00a2c9d9b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629668,
+        "stop" : 1646637629779,
+        "duration" : 111
+      }
+    } ]
+  },
+  "874e44bbc3d802deb58588dae1c551f5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22f11b40e70e9317",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620846,
+        "stop" : 1646637620979,
+        "duration" : 133
+      }
+    } ]
+  },
+  "1ffacf88ff40ec777af1163316a54a1d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c440f698a9c8cdc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637621893,
+        "stop" : 1646637622012,
+        "duration" : 119
+      }
+    } ]
+  },
+  "eaf29ee5d51fd9a54f32656930681faa" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6eb273f30e724a5f",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633364,
+        "stop" : 1646637633481,
+        "duration" : 117
+      }
+    } ]
+  },
+  "e867fddf1c8200f97744095d7225b45" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84099072f677c0d",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628281,
+        "stop" : 1646637628395,
+        "duration" : 114
+      }
+    } ]
+  },
+  "5062d61cc23fc6ae19cd1e8effeb1fbc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b44c64ab20e91ea",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627339,
+        "stop" : 1646637627446,
+        "duration" : 107
+      }
+    } ]
+  },
+  "274d3ae0bed46b867c7f58412d07e26b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5e1410318225d4b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631186,
+        "stop" : 1646637631291,
+        "duration" : 105
+      }
+    } ]
+  },
+  "c1585810ae2fa1d4b3dbde376f7d2f3a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a66b51837a3500c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627145,
+        "stop" : 1646637627242,
+        "duration" : 97
+      }
+    } ]
+  },
+  "fbcb8b5ee61853278452c016b3eeb633" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9f1c822fcdc5a67",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623800,
+        "stop" : 1646637623952,
+        "duration" : 152
+      }
+    } ]
+  },
+  "8491fc886e8add1b8556bbe0703b4b28" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "180b3d6564fc8654",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624878,
+        "stop" : 1646637624984,
+        "duration" : 106
+      }
+    } ]
+  },
+  "8d3dcca76a1fd36ca4a222005c139929" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee365384c38c94cf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626536,
+        "stop" : 1646637626640,
+        "duration" : 104
+      }
+    } ]
+  },
+  "7ab3c1763e33d6c5ef1442df51d0b345" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d154776bca489ec",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [\"description\";\"primary_color\"] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [\"display_name\"] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [\"boolean\"]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646637625958,
+        "stop" : 1646637626069,
+        "duration" : 111
+      }
+    } ]
+  },
+  "640411e7537cbc4d8ea4b43e20b62ec1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89888a12ec5fcd",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630582,
+        "stop" : 1646637630692,
+        "duration" : 110
+      }
+    } ]
+  },
+  "9ed922cc3ef340558fe81608adaa9699" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6847b66c9d0e971",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631295,
+        "stop" : 1646637631418,
+        "duration" : 123
+      }
+    } ]
+  },
+  "79156ad93dac11fa3c6396b1f467dac2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac059d9d2cded360",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620331,
+        "stop" : 1646637620453,
+        "duration" : 122
+      }
+    } ]
+  },
+  "9f4c713d1e315f135f5dd6759d330e89" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f1d7b54dbc7a7b5",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630330,
+        "stop" : 1646637630469,
+        "duration" : 139
+      }
+    } ]
+  },
+  "d37a7de5384247d7506e0cc660037e47" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf6becccaa1168bd",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622014,
+        "stop" : 1646637622126,
+        "duration" : 112
+      }
+    } ]
+  },
+  "d47ba7a7148105621e05816e0f47ac6a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69b7b6b57ae7cbf8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624315,
+        "stop" : 1646637624432,
+        "duration" : 117
+      }
+    } ]
+  },
+  "7146014b6ddcbf8cb15464c5f88ca2a4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "225c0a85a614b927",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628078,
+        "stop" : 1646637628175,
+        "duration" : 97
+      }
+    } ]
+  },
+  "89fb6deafd05d628a9da4f598655418c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34b082239f9cefd2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624752,
+        "stop" : 1646637624876,
+        "duration" : 124
+      }
+    } ]
+  },
+  "f17401c80c29fa642a6801a6ba988453" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cabda8cd3cd8cd14",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637634192,
+        "stop" : 1646637634304,
+        "duration" : 112
+      }
+    } ]
+  },
+  "a4c2b5a1eed44fc43fef22447e97bb63" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f664f2586015f6b3",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627559,
+        "stop" : 1646637627978,
+        "duration" : 419
+      }
+    } ]
+  },
+  "72d81695653378b07a279a5ac7dc5c3a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34eb934538767b2e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620734,
+        "stop" : 1646637620842,
+        "duration" : 108
+      }
+    } ]
+  },
+  "7a7c19fe544b39ff8fd3228e7df40319" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d71d8685794ac81",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624987,
+        "stop" : 1646637625097,
+        "duration" : 110
+      }
+    } ]
+  },
+  "baf64bf48503b71ff70270892b15f12d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d124c1da36e6f8cf",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637621103,
+        "stop" : 1646637621258,
+        "duration" : 155
+      }
+    } ]
+  },
+  "376ac61811f0ac1668992d78f7c1854f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "494da11626c8c635",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628841,
+        "stop" : 1646637629249,
+        "duration" : 408
+      }
+    } ]
+  },
+  "2907cc6817f937b622cf77e8af38177c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec445e2b4fab5326",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [\"description\";\"primary_color\"] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [\"display_name\"] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [\"boolean\"]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646637621261,
+        "stop" : 1646637621574,
+        "duration" : 313
+      }
+    } ]
+  },
+  "c3dfdbade39fbca55e74ba3dc9235fbf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ec9257b30bf45bc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637632429,
+        "stop" : 1646637632732,
+        "duration" : 303
+      }
+    } ]
+  },
+  "b98a3161839eda6eee6ead2321f75c9e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c9104281a27db61",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620455,
+        "stop" : 1646637620574,
+        "duration" : 119
+      }
+    } ]
+  },
+  "ebba5d7c59fd21deacd264c9f28db799" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c310ec5d0505e7b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629780,
+        "stop" : 1646637629883,
+        "duration" : 103
+      }
+    } ]
+  },
+  "92be83f9289ed3d1aec6454fadfb72e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35bfbd507a8b8d96",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633255,
+        "stop" : 1646637633361,
+        "duration" : 106
+      }
+    } ]
+  },
+  "2fdc595c581c830eda4120aaf238b88e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2da804252d6e6b9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622503,
+        "stop" : 1646637622629,
+        "duration" : 126
+      }
+    } ]
+  },
+  "39d03278b419d404977ff69f2bba5409" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "568f740449ed4e09",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631045,
+        "stop" : 1646637631184,
+        "duration" : 139
+      }
+    } ]
+  },
+  "34f4bd6b5d5bba1ac84ac0bd7ad72ef9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ef5771b72971a32",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637625476,
+        "stop" : 1646637625585,
+        "duration" : 109
+      }
+    } ]
+  },
+  "75335f46f15eda3b370094564300564a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbcd75f8a438a0f9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629566,
+        "stop" : 1646637629667,
+        "duration" : 101
+      }
+    } ]
+  },
+  "855e5c3bc7d6fb0107d7596dd8d49a9c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8979c1beb06d9c06",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630694,
+        "stop" : 1646637630799,
+        "duration" : 105
+      }
+    } ]
+  },
+  "fbf25f843c5ae313aeec979ac52a61c8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "280dd968c691f380",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637625349,
+        "stop" : 1646637625473,
+        "duration" : 124
+      }
+    } ]
+  },
+  "aded58c377c8097dc7c82db3aab7b5a9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5f84b01cedd6f8b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622994,
+        "stop" : 1646637623102,
+        "duration" : 108
+      }
+    } ]
+  },
+  "c05ad910918cf0731df5b75e8b78d586" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccd1cf9f661034b9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628396,
+        "stop" : 1646637628509,
+        "duration" : 113
+      }
+    } ]
+  },
+  "349246b49808d22547429f5f300039e2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2436cab77011b9db",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623954,
+        "stop" : 1646637624068,
+        "duration" : 114
+      }
+    } ]
+  },
+  "18b55dba19175bfd309dbf55d6cb2875" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83ba08da52d70a2b",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637625098,
+        "stop" : 1646637625196,
+        "duration" : 98
+      }
+    } ]
+  },
+  "d20b7bd4b1ce5476293703671cbbc162" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "372034bc9cec337",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622883,
+        "stop" : 1646637622992,
+        "duration" : 109
+      }
+    } ]
+  },
+  "6bf3f7deba78c36b0286d0dc0caa348e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc25ba09b8965b70",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623692,
+        "stop" : 1646637623797,
+        "duration" : 105
+      }
+    } ]
+  },
+  "1180b87696ad81be89e19689452243cc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "505a2cfc224a17a8",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624651,
+        "stop" : 1646637624750,
+        "duration" : 99
+      }
+    } ]
+  },
+  "20c13d905f5476f6b0227f41325325c7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a5a9587fde0f389",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629885,
+        "stop" : 1646637629996,
+        "duration" : 111
+      }
+    } ]
+  },
+  "137cd918c14830153c2a705cd7a11455" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac4ef50cf463dc82",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626642,
+        "stop" : 1646637626748,
+        "duration" : 106
+      }
+    } ]
+  },
+  "8263d935b2cc90132324e706cb680f2d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a033aaa7bb9edf9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623107,
+        "stop" : 1646637623231,
+        "duration" : 124
+      }
+    } ]
+  },
+  "b9726b56a6e8af56a4e984200621e7d2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d85fed7a2fb012c9",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637632833,
+        "stop" : 1646637632928,
+        "duration" : 95
+      }
+    } ]
+  },
+  "a4b7ee8c40f6e5f5829f3255d2d77937" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "116f2bf73f2f15e1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626306,
+        "stop" : 1646637626414,
+        "duration" : 108
+      }
+    } ]
+  },
+  "d5ab3b663a13b52efb1db837d579f89e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df48fa266f3e463a",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623342,
+        "stop" : 1646637623469,
+        "duration" : 127
+      }
+    } ]
+  },
+  "ccc84291c636a49fe30259657912da9f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cd7e076d924b472",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630928,
+        "stop" : 1646637631043,
+        "duration" : 115
+      }
+    } ]
+  },
+  "9c169ccd789647ce3021b9344536cb72" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f1cc21667a35334",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628744,
+        "stop" : 1646637628840,
+        "duration" : 96
+      }
+    } ]
+  },
+  "93feb72d55c6d32f9bd37fe77772d1ee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c2e3cd603c384a0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633483,
+        "stop" : 1646637633578,
+        "duration" : 95
+      }
+    } ]
+  },
+  "de906004bfd9620540d3a8ceed1bf907" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8664822f8cbc9138",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637634305,
+        "stop" : 1646637634405,
+        "duration" : 100
+      }
+    } ]
+  },
+  "349ea31a2573509bdf7cbd9fbb36cb01" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aecb1f41e30d58ce",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629998,
+        "stop" : 1646637630097,
+        "duration" : 99
+      }
+    } ]
+  },
+  "f4e36b3891874aa6a92c440a3dd3e7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1cfa1801308655",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623233,
+        "stop" : 1646637623340,
+        "duration" : 107
+      }
+    } ]
+  },
+  "d141e0209dce9119244305d9b7695fc4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd0fa42567edf118",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620981,
+        "stop" : 1646637621100,
+        "duration" : 119
+      }
+    } ]
+  },
+  "e67f8b2de4b9ea74a76a5231d320851f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc99d129b2a13f03",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626417,
+        "stop" : 1646637626534,
+        "duration" : 117
+      }
+    } ]
+  },
+  "3d57fa1e53a2b91b753849d52988e99b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4065291a0745262",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627244,
+        "stop" : 1646637627338,
+        "duration" : 94
+      }
+    } ]
+  },
+  "c07c303adbb8b50257b45d1adf2d20d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "122388f31257286e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631526,
+        "stop" : 1646637631946,
+        "duration" : 420
+      }
+    } ]
+  },
+  "7b37955e46fa97f803a52218acca30e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25d09ff90b584b1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628176,
+        "stop" : 1646637628277,
+        "duration" : 101
+      }
+    } ]
+  },
+  "2414283b44e1677a6e304b469bd9e3e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef8056130ffda8ff",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630100,
+        "stop" : 1646637630213,
+        "duration" : 113
+      }
+    } ]
+  },
+  "e358ecb36769002465e9f8ce3cd32f84" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "880272abad0ddaf2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637632323,
+        "stop" : 1646637632427,
+        "duration" : 104
+      }
+    } ]
+  },
+  "7bacb25b4597ee74188dab5769d6cab8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "471ad78ed48ba8df",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637631419,
+        "stop" : 1646637631523,
+        "duration" : 104
+      }
+    } ]
+  },
+  "53d63dde5174ceda5a39ee7dc6ecb503" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76685703cbdf1f19",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637622633,
+        "stop" : 1646637622882,
+        "duration" : 249
+      }
+    } ]
+  },
+  "e44e063ef87a8862514e8d0453af84b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "113e4b25affda73e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633581,
+        "stop" : 1646637633979,
+        "duration" : 398
+      }
+    } ]
+  },
+  "543fe7d5bf83289a85c6508ee7af2b1b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa57a9a27c5af93",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626753,
+        "stop" : 1646637627144,
+        "duration" : 391
+      }
+    } ]
+  },
+  "e4c77277d70ddec11cb5ce511246033d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ef64658f60ed097",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637625587,
+        "stop" : 1646637625956,
+        "duration" : 369
+      }
+    } ]
+  },
+  "6ec6ade86590b1d558dcdfc213c59b8d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ee199213b27162c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624538,
+        "stop" : 1646637624649,
+        "duration" : 111
+      }
+    } ]
+  },
+  "9a1ee47a11f7e0f62fdbea5aa11d74ad" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25b3af3a07ec78cc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629250,
+        "stop" : 1646637629358,
+        "duration" : 108
+      }
+    } ]
+  },
+  "9ed8cae59a9513638203df0d62c879dd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7567e396555d1de",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633980,
+        "stop" : 1646637634080,
+        "duration" : 100
+      }
+    } ]
+  },
+  "f69abe9c1e393f8d8b940545eaef17fb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c630d1b0dbae5929",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630214,
+        "stop" : 1646637630327,
+        "duration" : 113
+      }
+    } ]
+  },
+  "cc51bfbdc2316c34f38eb138a1803a5d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "169d6be0e773edeb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623571,
+        "stop" : 1646637623690,
+        "duration" : 119
+      }
+    } ]
+  },
+  "2f7b7eae8311104fe7b69ece9e33b855" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6890fdf7a4d9d53",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627450,
+        "stop" : 1646637627557,
+        "duration" : 107
+      }
+    } ]
+  },
+  "d98c778b57abf63e56172c5c519c156c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0c479fb6a4113f0",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626070,
+        "stop" : 1646637626172,
+        "duration" : 102
+      }
+    } ]
+  },
+  "77f06d4932a560ff5aa5e5b48f4d3eea" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b38ac0318c37e54e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637620577,
+        "stop" : 1646637620733,
+        "duration" : 156
+      }
+    } ]
+  },
+  "7e40d41bb535e26179eeb50db0132008" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d12db8878652c9b4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637628512,
+        "stop" : 1646637628624,
+        "duration" : 112
+      }
+    } ]
+  },
+  "1e3038625ba33a830fc2340ceac1e67f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb6c839f73e3ea86",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637632734,
+        "stop" : 1646637632832,
+        "duration" : 98
+      }
+    } ]
+  },
+  "babcdc4cacd2549b400134e9ebd3e586" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b56cecd1d58219e4",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637623471,
+        "stop" : 1646637623569,
+        "duration" : 98
+      }
+    } ]
+  },
+  "f9d7cc490f21804b9f3d7dbcd50854e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0105bdb6a76dffb",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633038,
+        "stop" : 1646637633132,
+        "duration" : 94
+      }
+    } ]
+  },
+  "c0578e63ecd1433aff2912881d397450" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8bb71316025941",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637624077,
+        "stop" : 1646637624189,
+        "duration" : 112
+      }
+    } ]
+  },
+  "dd21d39e496f295694c23f3c0e59f8a7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38b5b9a32ac20c54",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637633133,
+        "stop" : 1646637633254,
+        "duration" : 121
+      }
+    } ]
+  },
+  "4be44eb005cdb250918dd11d49c256a8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0c8ccd8034bab49",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637632929,
+        "stop" : 1646637633037,
+        "duration" : 108
+      }
+    } ]
+  },
+  "6647b602daf8b923b161d64682389238" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7207fe64d7511091",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637634081,
+        "stop" : 1646637634191,
+        "duration" : 110
+      }
+    } ]
+  },
+  "ddacbc7f8f4a8578783c61291b541b58" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3615a6d8c217cabe",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [\"description\";\"primary_color\"] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [\"display_name\"] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [\"boolean\"]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646637621688,
+        "stop" : 1646637621891,
+        "duration" : 203
+      }
+    } ]
+  },
+  "8a1208c0311a43337165af558fd99366" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a912e0f208bd36dc",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637630472,
+        "stop" : 1646637630577,
+        "duration" : 105
+      }
+    } ]
+  },
+  "fdeb79d7fb4eed730de19a046494ee00" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b43b6d656bbe2dd2",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637627979,
+        "stop" : 1646637628077,
+        "duration" : 98
+      }
+    } ]
+  },
+  "99c38962e0979982141c38b173a3e642" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81d32e77553caf9e",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637626174,
+        "stop" : 1646637626305,
+        "duration" : 131
+      }
+    } ]
+  },
+  "609b72d68db3344124ca1bedc8bece3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d926cd34aad56c4c",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [\"description\";\"primary_color\"] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [\"display_name\"] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [\"boolean\"]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646637622281,
+        "stop" : 1646637622501,
+        "duration" : 220
+      }
+    } ]
+  },
+  "31c6b5de7104595a8052e8e4b534890d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a9a21ea70e1bae1",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637629360,
+        "stop" : 1646637629465,
+        "duration" : 105
+      }
+    } ]
+  },
+  "c948d016165a88dc3f073f5f336579ec" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a23289fe52dff11",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: [Path '/playlists/items/[item]'] Object instance has properties which are not allowed by the schema: [\"description\";\"primary_color\"] --- [Path '/playlists/items/[item]/images/[item]/height'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/images/[item]/width'] Instance type (null) does not match any allowed primitive type (allowed: [\"integer\"]) --- [Path '/playlists/items/[item]/owner'] Object instance has properties which are not allowed by the schema: [\"display_name\"] --- [Path '/playlists/items/[item]/public'] Instance type (null) does not match any allowed primitive type (allowed: [\"boolean\"]) --- [Path '/playlists/next'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"]) --- [Path '/playlists/previous'] Instance type (null) does not match any allowed primitive type (allowed: [\"string\"])",
+      "time" : {
+        "start" : 1646637625197,
+        "stop" : 1646637625345,
+        "duration" : 148
+      }
+    } ]
+  },
+  "6d79e567f1f91fecc0d76afb679b78c0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c77fbf38f4a9cc98",
+      "status" : "failed",
+      "statusDetails" : "OAS disconformity: Response status 400 not defined for path '/browse/featured-playlists'.",
+      "time" : {
+        "start" : 1646637621576,
+        "stop" : 1646637621687,
+        "duration" : 111
+      }
+    } ]
+  }
+}

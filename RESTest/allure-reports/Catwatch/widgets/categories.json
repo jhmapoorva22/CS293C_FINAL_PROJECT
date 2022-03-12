@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "e03b7c79710bf235d29b94a637f41011",
+    "name" : "SEVERITY 1: Disconformity with OAS",
+    "statistic" : {
+      "failed" : 395,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 395
+    }
+  }, {
+    "uid" : "b988521bcefa01b0e71056c3af962707",
+    "name" : "SEVERITY 2: Status 5XX",
+    "statistic" : {
+      "failed" : 81,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 81
+    }
+  }, {
+    "uid" : "3d71959e279938eb4ebf002bd6507f21",
+    "name" : "Broken tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 63,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 63
+    }
+  } ]
+}

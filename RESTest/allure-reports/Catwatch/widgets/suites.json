@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "6ff8b661fb8510ff197bdc13393cfdce",
+    "name" : "Catwatch.CatwatchTest_1646717137412",
+    "statistic" : {
+      "failed" : 267,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 33,
+      "unknown" : 0,
+      "total" : 300
+    }
+  }, {
+    "uid" : "18200483d1dcfe0fa196a85fef574362",
+    "name" : "Catwatch.CatwatchTest_1646720771831",
+    "statistic" : {
+      "failed" : 209,
+      "broken" : 63,
+      "skipped" : 0,
+      "passed" : 28,
+      "unknown" : 0,
+      "total" : 300
+    }
+  } ]
+}

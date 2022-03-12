@@ -1,0 +1,4 @@
+"Category","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"SEVERITY 1: Disconformity with OAS","395","0","0","0","0"
+"SEVERITY 2: Status 5XX","81","0","0","0","0"
+"Broken tests","0","63","0","0","0"

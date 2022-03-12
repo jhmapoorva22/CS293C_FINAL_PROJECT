@@ -1,0 +1,78 @@
+{
+  "uid" : "d154c5fa8dea184f",
+  "name" : "test_tocvewqlcfnc_SETOPERATIONID",
+  "fullName" : "Catwatch.CatwatchTest_1646720771831.test_tocvewqlcfnc_SETOPERATIONID",
+  "historyId" : "9e9b70b804c216a9f7820ce94130e01e",
+  "time" : {
+    "start" : 1646725590558,
+    "stop" : 1646725590618,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c7bdae387069e1e2",
+      "name" : "Request",
+      "source" : "c7bdae387069e1e2.html",
+      "type" : "text/html",
+      "size" : 379
+    }, {
+      "uid" : "912dcc168474babb",
+      "name" : "HTTP/1.1 200 ",
+      "source" : "912dcc168474babb.html",
+      "type" : "text/html",
+      "size" : 898
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Catwatch"
+  }, {
+    "name" : "testClass",
+    "value" : "Catwatch.CatwatchTest_1646720771831"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_tocvewqlcfnc_SETOPERATIONID"
+  }, {
+    "name" : "suite",
+    "value" : "Catwatch.CatwatchTest_1646720771831"
+  }, {
+    "name" : "host",
+    "value" : "Avisheks-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "27225@Avisheks-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d154c5fa8dea184f.json",
+  "parameterValues" : [ ]
+}

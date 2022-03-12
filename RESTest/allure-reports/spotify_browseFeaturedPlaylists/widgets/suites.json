@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ac34b3226a1c717b68cab116ef532fdc",
+    "name" : "spotify_browseFeaturedPlaylists.Spotify_browseFeaturedPlaylists_1646637616576",
+    "statistic" : {
+      "failed" : 100,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 100
+    }
+  } ]
+}
