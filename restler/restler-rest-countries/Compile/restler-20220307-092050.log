@@ -1,0 +1,12 @@
+Restler Information: 0 : Starting task Compile...
+    DateTime=2022-03-08T05:20:51.3981236Z
+Restler Information: 0 : Launching 'dotnet "D:\repositories\fuzzy\restler_bin\restler\../compiler/Restler.CompilerExe.dll" "D:\repositories\fuzzy\restler-rest-countries\Compile\config.json"'
+    DateTime=2022-03-08T05:20:51.5753744Z
+Restler Information: 0 : Process execution terminated in 00:00:02.0940313 with exit code 0x0: 'dotnet "D:\repositories\fuzzy\restler_bin\restler\../compiler/Restler.CompilerExe.dll" "D:\repositories\fuzzy\restler-rest-countries\Compile\config.json"'
+    DateTime=2022-03-08T05:20:53.6783347Z
+Restler Information: 0 : (1296) dotnet "D:\repositories\fuzzy\restler_bin\restler\../compiler/Restler.CompilerExe.dll" "D:\repositories\fuzzy\restler-rest-countries\Compile\config.json" exited with code: 0
+    DateTime=2022-03-08T05:20:53.6869494Z
+Restler Information: 0 : Task Compile succeeded.
+    DateTime=2022-03-08T05:20:53.7047731Z
+Restler Information: 0 : Collecting logs...
+    DateTime=2022-03-08T05:20:53.7125295Z

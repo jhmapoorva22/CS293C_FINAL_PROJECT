@@ -1,0 +1,28 @@
+Restler Information: 0 : Starting task Test...
+    DateTime=2022-03-08T05:23:41.8033200Z
+Restler Information: 0 : Launching 'python.exe --version'
+    DateTime=2022-03-08T05:23:41.9391370Z
+Restler Information: 0 : Process execution terminated in 00:00:00.1130170 with exit code 0x0: 'python.exe --version'
+    DateTime=2022-03-08T05:23:42.0613332Z
+Restler Information: 0 : (164) python.exe --version exited with code: 0
+    DateTime=2022-03-08T05:23:42.0700343Z
+Restler Information: 0 : Launching 'python.exe -B "D:\repositories\fuzzy\restler_bin\restler\../engine/restler.py" --restler_grammar "D:\repositories\fuzzy\restler-rest-countries\Compile\grammar.py" --custom_mutations "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --set_version 8.4.0       --settings "D:\repositories\fuzzy\restler-rest-countries\Compile\engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test'
+    DateTime=2022-03-08T05:23:42.0886376Z
+Restler Information: 0 : Process execution terminated in 00:02:40.9164325 with exit code 0x0: 'python.exe -B "D:\repositories\fuzzy\restler_bin\restler\../engine/restler.py" --restler_grammar "D:\repositories\fuzzy\restler-rest-countries\Compile\grammar.py" --custom_mutations "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --set_version 8.4.0       --settings "D:\repositories\fuzzy\restler-rest-countries\Compile\engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test'
+    DateTime=2022-03-08T05:26:23.0054037Z
+Restler Information: 0 : (1552) python.exe -B "D:\repositories\fuzzy\restler_bin\restler\../engine/restler.py" --restler_grammar "D:\repositories\fuzzy\restler-rest-countries\Compile\grammar.py" --custom_mutations "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --set_version 8.4.0       --settings "D:\repositories\fuzzy\restler-rest-countries\Compile\engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test exited with code: 0
+    DateTime=2022-03-08T05:26:23.0055602Z
+Restler Information: 0 : Launching 'dotnet "D:\repositories\fuzzy\restler_bin\restler\../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "D:\repositories\fuzzy\restler-rest-countries\Test" --output_dir "D:\repositories\fuzzy\restler-rest-countries\Test\ResponseBuckets" --dictionary_file "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --max_instances_per_bucket 10'
+    DateTime=2022-03-08T05:26:23.0182736Z
+Restler Information: 0 : Process execution terminated in 00:00:01.8826636 with exit code 0x0: 'dotnet "D:\repositories\fuzzy\restler_bin\restler\../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "D:\repositories\fuzzy\restler-rest-countries\Test" --output_dir "D:\repositories\fuzzy\restler-rest-countries\Test\ResponseBuckets" --dictionary_file "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --max_instances_per_bucket 10'
+    DateTime=2022-03-08T05:26:24.9010911Z
+Restler Information: 0 : (15160) dotnet "D:\repositories\fuzzy\restler_bin\restler\../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "D:\repositories\fuzzy\restler-rest-countries\Test" --output_dir "D:\repositories\fuzzy\restler-rest-countries\Test\ResponseBuckets" --dictionary_file "D:\repositories\fuzzy\restler-rest-countries\Compile\dict.json" --max_instances_per_bucket 10 exited with code: 0
+    DateTime=2022-03-08T05:26:24.9012006Z
+Restler Information: 0 : Request coverage (successful / total): 19 / 21
+    DateTime=2022-03-08T05:26:25.1670977Z
+Restler Information: 0 : No bugs were found.
+    DateTime=2022-03-08T05:26:25.1712994Z
+Restler Information: 0 : Task Test succeeded.
+    DateTime=2022-03-08T05:26:25.1792058Z
+Restler Information: 0 : Collecting logs...
+    DateTime=2022-03-08T05:26:25.1861338Z

@@ -1,0 +1,543 @@
+Setting fuzzing schemes: directed-smoke-test
+2022-03-07 22:29:02.935: Going to fuzz a set with 21 requests
+2022-03-07 22:29:02.935: Request-0: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-1: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-2: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-3: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-4: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-5: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-6: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-7: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-8: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-9: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-10: Value Combinations: 10
+2022-03-07 22:29:02.935: Request-11: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-12: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-13: Value Combinations: 10
+2022-03-07 22:29:02.935: Request-14: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-15: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-16: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-17: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-18: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-19: Value Combinations: 100
+2022-03-07 22:29:02.935: Request-20: Value Combinations: 100
+2022-03-07 22:29:02.935: Avg. Value Combinations per Request: 91.42857142857143
+2022-03-07 22:29:02.935: Median Value Combinations per Request: 100
+2022-03-07 22:29:02.935: Min Value Combinations per Request: 10
+2022-03-07 22:29:02.935: Max Value Combinations per Request: 100
+2022-03-07 22:29:02.935: Total dependencies: 0
+
+2022-03-07 22:29:02.981: Generation: 1 / Sequences Collection Size: 21 
+(After directed-smoke-test Extend)
+
+Rendering request 0 from scratch
+
+2022-03-07 22:29:04.795: Request 0
+2022-03-07 22:29:04.795: Endpoint - /v3/currency/{currency}
+2022-03-07 22:29:04.795: Hex Def - 0a639c1bd4763324e7e79fa41506b4fd8f59775f
+2022-03-07 22:29:04.795: Sequence length that satisfies dependencies: 1
+2022-03-07 22:29:04.795: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'currency'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 1 from scratch
+
+2022-03-07 22:29:06.203: Request 1
+2022-03-07 22:29:06.203: Endpoint - /v3/demonym/{demonym}
+2022-03-07 22:29:06.203: Hex Def - 3c801f47bdde84e5013ed1b49102528db8493784
+2022-03-07 22:29:06.203: Sequence length that satisfies dependencies: 1
+2022-03-07 22:29:06.203: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'demonym'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 2 from scratch
+
+2022-03-07 22:29:07.361: Request 2
+2022-03-07 22:29:07.361: Endpoint - /v2/name/{name}
+2022-03-07 22:29:07.361: Hex Def - 4abc5eeaae41f3e113905efeaef867b05b6c067e
+2022-03-07 22:29:07.361: Sequence length that satisfies dependencies: 1
+2022-03-07 22:29:07.361: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'name'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '&'
+		- restler_static_string: 'fullText='
+		- restler_fuzzable_bool: 'true'
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 3 from scratch
+
+2022-03-07 22:29:08.846: Request 3
+2022-03-07 22:29:08.846: Endpoint - /v2/alpha
+2022-03-07 22:29:08.846: Hex Def - 4fa8a96b09a7ee19db4ddc6a3158793be658a3eb
+2022-03-07 22:29:08.846: Sequence length that satisfies dependencies: 1
+2022-03-07 22:29:08.846: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'alpha'
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '&'
+		- restler_static_string: 'codes='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 4 from scratch
+
+2022-03-07 22:30:52.593: Request 4
+2022-03-07 22:30:52.593: Endpoint - /v3/name/{name}
+2022-03-07 22:30:52.593: Hex Def - 5428060ff76bfcace218eb38964097f9d8e464f8
+2022-03-07 22:30:52.593: Sequence length that satisfies dependencies: 1
+2022-03-07 22:30:52.593: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'name'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '&'
+		- restler_static_string: 'fullText='
+		- restler_fuzzable_bool: 'true'
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 5 from scratch
+
+2022-03-07 22:30:53.787: Request 5
+2022-03-07 22:30:53.787: Endpoint - /v2/alpha/{alphacode}
+2022-03-07 22:30:53.787: Hex Def - 5db5e6b2a22bc239dd5099ed23864cd70187551e
+2022-03-07 22:30:53.787: Sequence length that satisfies dependencies: 1
+2022-03-07 22:30:53.787: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'alpha'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 6 from scratch
+
+2022-03-07 22:33:05.912: Request 6
+2022-03-07 22:33:05.912: Endpoint - /v2/continent/{region}
+2022-03-07 22:33:05.912: Hex Def - 6668da905a2a0e1ebc3b9744200f2276864042dc
+2022-03-07 22:33:05.912: Sequence length that satisfies dependencies: 1
+2022-03-07 22:33:05.912: Rendering INVALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'continent'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 7 from scratch
+
+2022-03-07 22:33:06.947: Request 7
+2022-03-07 22:33:06.947: Endpoint - /v3/alpha
+2022-03-07 22:33:06.947: Hex Def - 7073a62f978397ff9b89d504073a824c1a0cdec7
+2022-03-07 22:33:06.947: Sequence length that satisfies dependencies: 1
+2022-03-07 22:33:06.947: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'alpha'
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '&'
+		- restler_static_string: 'codes='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 8 from scratch
+
+2022-03-07 22:33:07.941: Request 8
+2022-03-07 22:33:07.941: Endpoint - /v2/capital/{capital}
+2022-03-07 22:33:07.941: Hex Def - 8c88cc7a7ebc4f01722ff91cfc6d76511cd12c20
+2022-03-07 22:33:07.941: Sequence length that satisfies dependencies: 1
+2022-03-07 22:33:07.942: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'capital'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 9 from scratch
+
+2022-03-07 22:33:25.683: Request 9
+2022-03-07 22:33:25.683: Endpoint - /v2/currency/{currency}
+2022-03-07 22:33:25.683: Hex Def - 939751440e7c76dd37325780132c514b8a2faac9
+2022-03-07 22:33:25.683: Sequence length that satisfies dependencies: 1
+2022-03-07 22:33:25.683: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'currency'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 10 from scratch
+
+2022-03-07 22:33:27.176: Request 10
+2022-03-07 22:33:27.176: Endpoint - /v3/all
+2022-03-07 22:33:27.176: Hex Def - a0944eaf73aec5880d985c0cebc3624486b96022
+2022-03-07 22:33:27.176: Sequence length that satisfies dependencies: 1
+2022-03-07 22:33:27.176: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'all'
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 11 from scratch
+
+2022-03-07 22:35:31.296: Request 11
+2022-03-07 22:35:31.296: Endpoint - /v3/lang/{lang}
+2022-03-07 22:35:31.296: Hex Def - a2fcba320a30d6946eeb29951e4b5d786c5583c2
+2022-03-07 22:35:31.296: Sequence length that satisfies dependencies: 1
+2022-03-07 22:35:31.296: Rendering INVALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'lang'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 12 from scratch
+
+2022-03-07 22:36:43.178: Request 12
+2022-03-07 22:36:43.178: Endpoint - /v2/regionalbloc/{regionalbloc}
+2022-03-07 22:36:43.178: Hex Def - a59ba871986f4512fd093e99da511da19095b902
+2022-03-07 22:36:43.178: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:43.178: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'regionalbloc'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 13 from scratch
+
+2022-03-07 22:36:44.637: Request 13
+2022-03-07 22:36:44.637: Endpoint - /v2/all
+2022-03-07 22:36:44.637: Hex Def - a7f4f4d96b9d26a1bf3f2dfa9544d4b5efb6f695
+2022-03-07 22:36:44.637: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:44.637: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'all'
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 14 from scratch
+
+2022-03-07 22:36:46.215: Request 14
+2022-03-07 22:36:46.215: Endpoint - /v3/subregion/{subregion}
+2022-03-07 22:36:46.215: Hex Def - b7c4e5463c57c2a465d907ab5ab831f73f8ad524
+2022-03-07 22:36:46.215: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:46.215: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'subregion'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 15 from scratch
+
+2022-03-07 22:36:47.324: Request 15
+2022-03-07 22:36:47.324: Endpoint - /v3/region/{region}
+2022-03-07 22:36:47.324: Hex Def - ba283e7a5b844dd107b8483410fe0e360218b02e
+2022-03-07 22:36:47.324: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:47.324: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'region'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 16 from scratch
+
+2022-03-07 22:36:48.199: Request 16
+2022-03-07 22:36:48.199: Endpoint - /v3/alpha/{alphacode}
+2022-03-07 22:36:48.199: Hex Def - c0ae7d2f7148466aaef290836450c9d798d8a6dd
+2022-03-07 22:36:48.199: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:48.199: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'alpha'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 17 from scratch
+
+2022-03-07 22:36:49.465: Request 17
+2022-03-07 22:36:49.465: Endpoint - /v3/capital/{capital}
+2022-03-07 22:36:49.465: Hex Def - c5e2ae514175342c3c27837eef5639f3c1214614
+2022-03-07 22:36:49.465: Sequence length that satisfies dependencies: 1
+2022-03-07 22:36:49.465: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'capital'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 18 from scratch
+
+2022-03-07 22:37:47.387: Request 18
+2022-03-07 22:37:47.387: Endpoint - /v2/callingcode/{callingcode}
+2022-03-07 22:37:47.387: Hex Def - cf78b5533f9b14b23df11e140af8959798731acd
+2022-03-07 22:37:47.387: Sequence length that satisfies dependencies: 1
+2022-03-07 22:37:47.387: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'callingcode'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 19 from scratch
+
+2022-03-07 22:37:48.605: Request 19
+2022-03-07 22:37:48.605: Endpoint - /v3/translation/{translation}
+2022-03-07 22:37:48.605: Hex Def - e4acaa28e7bd50797c1bf1eb9fe7eae57e215143
+2022-03-07 22:37:48.605: Sequence length that satisfies dependencies: 1
+2022-03-07 22:37:48.605: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v3'
+		- restler_static_string: '/'
+		- restler_static_string: 'translation'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+Rendering request 20 from scratch
+
+2022-03-07 22:38:18.701: Request 20
+2022-03-07 22:38:18.701: Endpoint - /v2/lang/{lang}
+2022-03-07 22:38:18.701: Hex Def - f7890519c180cb855fdfb317672835c6f8ea1761
+2022-03-07 22:38:18.701: Sequence length that satisfies dependencies: 1
+2022-03-07 22:38:18.701: Rendering VALID
+		- restler_static_string: 'GET '
+		- restler_static_string: ''
+		- restler_static_string: '/'
+		- restler_static_string: 'v2'
+		- restler_static_string: '/'
+		- restler_static_string: 'lang'
+		- restler_static_string: '/'
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: '?'
+		- restler_static_string: 'fields='
+		+ restler_fuzzable_string: ['pe', 'pen', 'es', 'lima', '51', 'europe', 'eu', 'united', 'aruba', 'dollar']
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: restcountries.com\r\n'
+		- restler_static_string: '\r\n'
+
+2022-03-07 22:38:18.702: Generation: 1 / Sequences Collection Size: 19 
+(After directed-smoke-test Render)
+
+2022-03-07 22:38:18.702: Final Swagger spec coverage: 19 / 21
+2022-03-07 22:38:18.702: Rendered requests: 21 / 21
+2022-03-07 22:38:18.702: Rendered requests with "valid" status codes: 19 / 21
+2022-03-07 22:38:18.702: Num fully valid requests (no resource creation failures): 19
+2022-03-07 22:38:18.702: Num requests not rendered due to invalid sequence re-renders: 0
+2022-03-07 22:38:18.702: Num invalid requests caused by failed resource creations: 0
+2022-03-07 22:38:18.702: Total Creations of Dyn Objects: 0
+2022-03-07 22:38:18.702: Total Requests Sent: {'gc': 0, 'main_driver': 429, 'LeakageRuleChecker': 0, 'ResourceHierarchyChecker': 0, 'UseAfterFreeChecker': 0, 'InvalidDynamicObjectChecker': 0, 'PayloadBodyChecker': 0, 'ExamplesChecker': 0}
+2022-03-07 22:38:18.702: Bug Buckets: {}
+
+Testing completed -- below are the final stats:
+
+2022-03-07 22:38:18.714: Final Swagger spec coverage: 19 / 21
+2022-03-07 22:38:18.714: Rendered requests: 21 / 21
+2022-03-07 22:38:18.714: Rendered requests with "valid" status codes: 19 / 21
+2022-03-07 22:38:18.714: Num fully valid requests (no resource creation failures): 19
+2022-03-07 22:38:18.714: Num requests not rendered due to invalid sequence re-renders: 0
+2022-03-07 22:38:18.714: Num invalid requests caused by failed resource creations: 0
+2022-03-07 22:38:18.714: Total Creations of Dyn Objects: 0
+2022-03-07 22:38:18.714: Total Requests Sent: {'gc': 0, 'main_driver': 429, 'LeakageRuleChecker': 0, 'ResourceHierarchyChecker': 0, 'UseAfterFreeChecker': 0, 'InvalidDynamicObjectChecker': 0, 'PayloadBodyChecker': 0, 'ExamplesChecker': 0}
+2022-03-07 22:38:18.714: Bug Buckets: {}
